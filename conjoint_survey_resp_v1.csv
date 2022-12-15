@@ -1,0 +1,841 @@
+,resp.id,ques,alt,Price,Brand,Type of Wine,Percentage of Alcohol,Aging time of Wine,Age,Sex,Employment status,Education,Ethnicity,Social Platforms,Physical Activities,Choice
+0,1,1,Option 1,Value(3€-10€),Cavit,White wine,5.5 %,3 years,1,Female,Student,Masters,German,Instagram,Moderate,0
+1,1,1,Option 2,Popular(10€-15€),Mezzacorona,White wine,18 %,1 year ,1,Female,Student,Masters,German,Instagram,Moderate,1
+2,1,1,Option 3,Premium(15€-30€),Ferrari,Rose wine,12 %,1 year ,1,Female,Student,Masters,German,Instagram,Moderate,0
+3,1,1,Option 4,Popular(10€-15€),Ferrari,Rose wine,18 %,4 years,1,Female,Student,Masters,German,Instagram,Moderate,0
+4,1,2,Option 1,Premium(15€-30€),Mezzacorona,Sparkling wine,7 %,4 years,1,Female,Student,Masters,German,Instagram,Moderate,1
+5,1,2,Option 2,Value(3€-10€),Cantina Toblino,Rose wine,12 %,5 years,1,Female,Student,Masters,German,Instagram,Moderate,0
+6,1,2,Option 3,Luxury(50€-100€),Ferrari,Sparkling wine,12 %,2 years,1,Female,Student,Masters,German,Instagram,Moderate,0
+7,1,2,Option 4,Luxury(50€-100€),Mezzacorona,Red wine,7 %,4 years,1,Female,Student,Masters,German,Instagram,Moderate,0
+8,1,3,Option 1,Luxury(50€-100€),Ferrari,White wine,7 %,1 year ,1,Female,Student,Masters,German,Instagram,Moderate,0
+9,1,3,Option 2,Value(3€-10€),Cantina Toblino,Sparkling wine,7 %,4 years,1,Female,Student,Masters,German,Instagram,Moderate,0
+10,1,3,Option 3,Luxury(50€-100€),Ferrari,Rose wine,7 %,5 years,1,Female,Student,Masters,German,Instagram,Moderate,0
+11,1,3,Option 4,Value(3€-10€),Ferrari,Red wine,18 %,1 year ,1,Female,Student,Masters,German,Instagram,Moderate,1
+12,1,4,Option 1,Luxury(50€-100€),Cantina Toblino,White wine,12 %,3 years,1,Female,Student,Masters,German,Instagram,Moderate,0
+13,1,4,Option 2,Value(3€-10€),Cavit,Rose wine,7 %,1 year ,1,Female,Student,Masters,German,Instagram,Moderate,1
+14,1,4,Option 3,Premium(15€-30€),Cavit,Red wine,7 %,3 years,1,Female,Student,Masters,German,Instagram,Moderate,0
+15,1,4,Option 4,Premium(15€-30€),Ferrari,Red wine,7 %,2 years,1,Female,Student,Masters,German,Instagram,Moderate,0
+16,1,5,Option 1,Value(3€-10€),Cavit,Rose wine,5.5 %,2 years,1,Female,Student,Masters,German,Instagram,Moderate,0
+17,1,5,Option 2,Premium(15€-30€),Mezzacorona,Sparkling wine,18 %,3 years,1,Female,Student,Masters,German,Instagram,Moderate,0
+18,1,5,Option 3,Popular(10€-15€),Ferrari,Sparkling wine,18 %,4 years,1,Female,Student,Masters,German,Instagram,Moderate,1
+19,1,5,Option 4,Value(3€-10€),Mezzacorona,Sparkling wine,18 %,4 years,1,Female,Student,Masters,German,Instagram,Moderate,0
+20,1,6,Option 1,Popular(10€-15€),Cantina Toblino,White wine,18 %,1 year ,1,Female,Student,Masters,German,Instagram,Moderate,1
+21,1,6,Option 2,Popular(10€-15€),Cantina Toblino,Sparkling wine,7 %,5 years,1,Female,Student,Masters,German,Instagram,Moderate,0
+22,1,6,Option 3,Luxury(50€-100€),Cantina Toblino,Sparkling wine,5.5 %,5 years,1,Female,Student,Masters,German,Instagram,Moderate,0
+23,1,6,Option 4,Popular(10€-15€),Cantina Toblino,Rose wine,12 %,3 years,1,Female,Student,Masters,German,Instagram,Moderate,0
+24,1,7,Option 1,Value(3€-10€),Cantina Toblino,Sparkling wine,5.5 %,4 years,1,Female,Student,Masters,German,Instagram,Moderate,0
+25,1,7,Option 2,Popular(10€-15€),Cavit,White wine,5.5 %,5 years,1,Female,Student,Masters,German,Instagram,Moderate,0
+26,1,7,Option 3,Popular(10€-15€),Ferrari,Rose wine,5.5 %,3 years,1,Female,Student,Masters,German,Instagram,Moderate,0
+27,1,7,Option 4,Value(3€-10€),Cantina Toblino,Red wine,7 %,3 years,1,Female,Student,Masters,German,Instagram,Moderate,1
+28,2,1,Option 1,Popular(10€-15€),Ferrari,White wine,18 %,3 years,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,0
+29,2,1,Option 2,Premium(15€-30€),Ferrari,Red wine,18 %,5 years,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,1
+30,2,1,Option 3,Popular(10€-15€),Cantina Toblino,Rose wine,7 %,2 years,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,0
+31,2,1,Option 4,Value(3€-10€),Cantina Toblino,Rose wine,7 %,1 year ,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,0
+32,2,2,Option 1,Luxury(50€-100€),Ferrari,Sparkling wine,5.5 %,2 years,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,1
+33,2,2,Option 2,Premium(15€-30€),Cavit,Sparkling wine,7 %,4 years,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,0
+34,2,2,Option 3,Luxury(50€-100€),Cantina Toblino,Rose wine,12 %,4 years,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,0
+35,2,2,Option 4,Value(3€-10€),Cantina Toblino,Sparkling wine,7 %,1 year ,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,0
+36,2,3,Option 1,Premium(15€-30€),Cavit,White wine,12 %,4 years,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,0
+37,2,3,Option 2,Popular(10€-15€),Cantina Toblino,White wine,7 %,4 years,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,0
+38,2,3,Option 3,Luxury(50€-100€),Cavit,Red wine,7 %,4 years,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,0
+39,2,3,Option 4,Value(3€-10€),Mezzacorona,Sparkling wine,7 %,1 year ,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,1
+40,2,4,Option 1,Luxury(50€-100€),Cavit,Red wine,5.5 %,2 years,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,0
+41,2,4,Option 2,Premium(15€-30€),Cavit,Sparkling wine,5.5 %,4 years,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,1
+42,2,4,Option 3,Value(3€-10€),Cantina Toblino,Red wine,12 %,2 years,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,0
+43,2,4,Option 4,Premium(15€-30€),Ferrari,Sparkling wine,12 %,4 years,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,0
+44,2,5,Option 1,Luxury(50€-100€),Cavit,White wine,18 %,5 years,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,0
+45,2,5,Option 2,Value(3€-10€),Ferrari,White wine,5.5 %,4 years,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,0
+46,2,5,Option 3,Value(3€-10€),Ferrari,White wine,12 %,3 years,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,1
+47,2,5,Option 4,Luxury(50€-100€),Ferrari,Red wine,7 %,1 year ,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,0
+48,2,6,Option 1,Value(3€-10€),Cantina Toblino,Red wine,18 %,4 years,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,1
+49,2,6,Option 2,Value(3€-10€),Cavit,Rose wine,12 %,5 years,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,0
+50,2,6,Option 3,Popular(10€-15€),Mezzacorona,Red wine,5.5 %,4 years,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,0
+51,2,6,Option 4,Premium(15€-30€),Ferrari,White wine,12 %,1 year ,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,0
+52,2,7,Option 1,Premium(15€-30€),Cavit,Rose wine,12 %,1 year ,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,0
+53,2,7,Option 2,Luxury(50€-100€),Mezzacorona,Sparkling wine,5.5 %,1 year ,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,0
+54,2,7,Option 3,Luxury(50€-100€),Cantina Toblino,Rose wine,7 %,3 years,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,0
+55,2,7,Option 4,Value(3€-10€),Cantina Toblino,Sparkling wine,12 %,1 year ,1,Male,Student,Masters,Italian,"Instagram,Twitter",Moderate,1
+56,3,1,Option 1,Premium(15€-30€),Mezzacorona,Red wine,7 %,5 years,1,Male,Student,Bachelors,Italian,Twitter,Moderate,1
+57,3,1,Option 2,Premium(15€-30€),Cavit,White wine,7 %,5 years,1,Male,Student,Bachelors,Italian,Twitter,Moderate,0
+58,3,1,Option 3,Popular(10€-15€),Mezzacorona,Rose wine,5.5 %,2 years,1,Male,Student,Bachelors,Italian,Twitter,Moderate,0
+59,3,1,Option 4,Luxury(50€-100€),Cavit,Sparkling wine,18 %,4 years,1,Male,Student,Bachelors,Italian,Twitter,Moderate,0
+60,3,2,Option 1,Luxury(50€-100€),Cavit,Rose wine,5.5 %,2 years,1,Male,Student,Bachelors,Italian,Twitter,Moderate,0
+61,3,2,Option 2,Popular(10€-15€),Mezzacorona,Red wine,18 %,3 years,1,Male,Student,Bachelors,Italian,Twitter,Moderate,1
+62,3,2,Option 3,Luxury(50€-100€),Cantina Toblino,Sparkling wine,5.5 %,1 year ,1,Male,Student,Bachelors,Italian,Twitter,Moderate,0
+63,3,2,Option 4,Popular(10€-15€),Ferrari,White wine,7 %,2 years,1,Male,Student,Bachelors,Italian,Twitter,Moderate,0
+64,3,3,Option 1,Premium(15€-30€),Mezzacorona,Sparkling wine,7 %,2 years,1,Male,Student,Bachelors,Italian,Twitter,Moderate,0
+65,3,3,Option 2,Popular(10€-15€),Cavit,Rose wine,12 %,4 years,1,Male,Student,Bachelors,Italian,Twitter,Moderate,1
+66,3,3,Option 3,Luxury(50€-100€),Cavit,Red wine,18 %,4 years,1,Male,Student,Bachelors,Italian,Twitter,Moderate,0
+67,3,3,Option 4,Value(3€-10€),Ferrari,Rose wine,12 %,3 years,1,Male,Student,Bachelors,Italian,Twitter,Moderate,0
+68,3,4,Option 1,Popular(10€-15€),Cavit,White wine,18 %,4 years,1,Male,Student,Bachelors,Italian,Twitter,Moderate,0
+69,3,4,Option 2,Luxury(50€-100€),Ferrari,White wine,18 %,2 years,1,Male,Student,Bachelors,Italian,Twitter,Moderate,0
+70,3,4,Option 3,Popular(10€-15€),Cantina Toblino,White wine,18 %,1 year ,1,Male,Student,Bachelors,Italian,Twitter,Moderate,0
+71,3,4,Option 4,Popular(10€-15€),Mezzacorona,Red wine,12 %,4 years,1,Male,Student,Bachelors,Italian,Twitter,Moderate,1
+72,3,5,Option 1,Popular(10€-15€),Ferrari,Rose wine,12 %,3 years,1,Male,Student,Bachelors,Italian,Twitter,Moderate,1
+73,3,5,Option 2,Popular(10€-15€),Ferrari,Rose wine,18 %,2 years,1,Male,Student,Bachelors,Italian,Twitter,Moderate,0
+74,3,5,Option 3,Luxury(50€-100€),Mezzacorona,Red wine,7 %,3 years,1,Male,Student,Bachelors,Italian,Twitter,Moderate,0
+75,3,5,Option 4,Popular(10€-15€),Cantina Toblino,Red wine,5.5 %,4 years,1,Male,Student,Bachelors,Italian,Twitter,Moderate,0
+76,3,6,Option 1,Premium(15€-30€),Mezzacorona,Sparkling wine,12 %,4 years,1,Male,Student,Bachelors,Italian,Twitter,Moderate,0
+77,3,6,Option 2,Value(3€-10€),Ferrari,Red wine,18 %,5 years,1,Male,Student,Bachelors,Italian,Twitter,Moderate,0
+78,3,6,Option 3,Premium(15€-30€),Cantina Toblino,Sparkling wine,12 %,3 years,1,Male,Student,Bachelors,Italian,Twitter,Moderate,1
+79,3,6,Option 4,Value(3€-10€),Mezzacorona,White wine,18 %,2 years,1,Male,Student,Bachelors,Italian,Twitter,Moderate,0
+80,3,7,Option 1,Popular(10€-15€),Cantina Toblino,White wine,12 %,1 year ,1,Male,Student,Bachelors,Italian,Twitter,Moderate,0
+81,3,7,Option 2,Premium(15€-30€),Mezzacorona,Rose wine,18 %,3 years,1,Male,Student,Bachelors,Italian,Twitter,Moderate,1
+82,3,7,Option 3,Value(3€-10€),Mezzacorona,Sparkling wine,12 %,5 years,1,Male,Student,Bachelors,Italian,Twitter,Moderate,0
+83,3,7,Option 4,Value(3€-10€),Cavit,Rose wine,12 %,4 years,1,Male,Student,Bachelors,Italian,Twitter,Moderate,0
+84,4,1,Option 1,Premium(15€-30€),Cavit,White wine,18 %,3 years,1,Male,Student,Masters,India,Linkedin,Moderate,0
+85,4,1,Option 2,Popular(10€-15€),Cantina Toblino,Rose wine,12 %,5 years,1,Male,Student,Masters,India,Linkedin,Moderate,0
+86,4,1,Option 3,Popular(10€-15€),Mezzacorona,Rose wine,12 %,1 year ,1,Male,Student,Masters,India,Linkedin,Moderate,1
+87,4,1,Option 4,Popular(10€-15€),Cantina Toblino,White wine,12 %,3 years,1,Male,Student,Masters,India,Linkedin,Moderate,0
+88,4,2,Option 1,Popular(10€-15€),Cantina Toblino,Sparkling wine,12 %,2 years,1,Male,Student,Masters,India,Linkedin,Moderate,0
+89,4,2,Option 2,Popular(10€-15€),Cavit,White wine,18 %,5 years,1,Male,Student,Masters,India,Linkedin,Moderate,0
+90,4,2,Option 3,Value(3€-10€),Mezzacorona,Red wine,18 %,5 years,1,Male,Student,Masters,India,Linkedin,Moderate,0
+91,4,2,Option 4,Premium(15€-30€),Mezzacorona,Sparkling wine,12 %,4 years,1,Male,Student,Masters,India,Linkedin,Moderate,1
+92,4,3,Option 1,Popular(10€-15€),Cantina Toblino,Sparkling wine,7 %,4 years,1,Male,Student,Masters,India,Linkedin,Moderate,0
+93,4,3,Option 2,Luxury(50€-100€),Mezzacorona,Rose wine,7 %,5 years,1,Male,Student,Masters,India,Linkedin,Moderate,0
+94,4,3,Option 3,Popular(10€-15€),Mezzacorona,Sparkling wine,7 %,3 years,1,Male,Student,Masters,India,Linkedin,Moderate,0
+95,4,3,Option 4,Value(3€-10€),Mezzacorona,Sparkling wine,7 %,5 years,1,Male,Student,Masters,India,Linkedin,Moderate,1
+96,4,4,Option 1,Value(3€-10€),Cavit,Rose wine,7 %,3 years,1,Male,Student,Masters,India,Linkedin,Moderate,0
+97,4,4,Option 2,Value(3€-10€),Ferrari,Red wine,7 %,3 years,1,Male,Student,Masters,India,Linkedin,Moderate,1
+98,4,4,Option 3,Luxury(50€-100€),Ferrari,Red wine,18 %,3 years,1,Male,Student,Masters,India,Linkedin,Moderate,0
+99,4,4,Option 4,Luxury(50€-100€),Ferrari,White wine,18 %,1 year ,1,Male,Student,Masters,India,Linkedin,Moderate,0
+100,4,5,Option 1,Luxury(50€-100€),Mezzacorona,White wine,12 %,2 years,1,Male,Student,Masters,India,Linkedin,Moderate,0
+101,4,5,Option 2,Luxury(50€-100€),Ferrari,Rose wine,18 %,3 years,1,Male,Student,Masters,India,Linkedin,Moderate,0
+102,4,5,Option 3,Popular(10€-15€),Cavit,Rose wine,5.5 %,1 year ,1,Male,Student,Masters,India,Linkedin,Moderate,0
+103,4,5,Option 4,Value(3€-10€),Ferrari,Red wine,7 %,2 years,1,Male,Student,Masters,India,Linkedin,Moderate,1
+104,4,6,Option 1,Popular(10€-15€),Cantina Toblino,Sparkling wine,18 %,1 year ,1,Male,Student,Masters,India,Linkedin,Moderate,0
+105,4,6,Option 2,Luxury(50€-100€),Ferrari,Sparkling wine,18 %,1 year ,1,Male,Student,Masters,India,Linkedin,Moderate,0
+106,4,6,Option 3,Value(3€-10€),Cantina Toblino,Sparkling wine,5.5 %,2 years,1,Male,Student,Masters,India,Linkedin,Moderate,0
+107,4,6,Option 4,Value(3€-10€),Mezzacorona,Sparkling wine,18 %,1 year ,1,Male,Student,Masters,India,Linkedin,Moderate,1
+108,4,7,Option 1,Luxury(50€-100€),Cantina Toblino,Rose wine,5.5 %,1 year ,1,Male,Student,Masters,India,Linkedin,Moderate,0
+109,4,7,Option 2,Premium(15€-30€),Cavit,Sparkling wine,12 %,5 years,1,Male,Student,Masters,India,Linkedin,Moderate,0
+110,4,7,Option 3,Popular(10€-15€),Cavit,Rose wine,12 %,4 years,1,Male,Student,Masters,India,Linkedin,Moderate,0
+111,4,7,Option 4,Value(3€-10€),Mezzacorona,White wine,18 %,4 years,1,Male,Student,Masters,India,Linkedin,Moderate,1
+112,5,1,Option 1,Popular(10€-15€),Cavit,Rose wine,5.5 %,4 years,1,Female,Student,Masters,Russia,Instagram,Low,1
+113,5,1,Option 2,Premium(15€-30€),Ferrari,Red wine,18 %,5 years,1,Female,Student,Masters,Russia,Instagram,Low,0
+114,5,1,Option 3,Value(3€-10€),Mezzacorona,Red wine,18 %,2 years,1,Female,Student,Masters,Russia,Instagram,Low,0
+115,5,1,Option 4,Value(3€-10€),Cavit,Red wine,5.5 %,4 years,1,Female,Student,Masters,Russia,Instagram,Low,0
+116,5,2,Option 1,Luxury(50€-100€),Cantina Toblino,Rose wine,18 %,5 years,1,Female,Student,Masters,Russia,Instagram,Low,0
+117,5,2,Option 2,Popular(10€-15€),Cantina Toblino,Sparkling wine,7 %,4 years,1,Female,Student,Masters,Russia,Instagram,Low,0
+118,5,2,Option 3,Premium(15€-30€),Mezzacorona,Sparkling wine,12 %,4 years,1,Female,Student,Masters,Russia,Instagram,Low,0
+119,5,2,Option 4,Premium(15€-30€),Cavit,Red wine,7 %,5 years,1,Female,Student,Masters,Russia,Instagram,Low,1
+120,5,3,Option 1,Popular(10€-15€),Cantina Toblino,White wine,12 %,1 year ,1,Female,Student,Masters,Russia,Instagram,Low,0
+121,5,3,Option 2,Popular(10€-15€),Cantina Toblino,Rose wine,12 %,1 year ,1,Female,Student,Masters,Russia,Instagram,Low,0
+122,5,3,Option 3,Premium(15€-30€),Cavit,White wine,7 %,3 years,1,Female,Student,Masters,Russia,Instagram,Low,0
+123,5,3,Option 4,Luxury(50€-100€),Cavit,Rose wine,5.5 %,1 year ,1,Female,Student,Masters,Russia,Instagram,Low,1
+124,5,4,Option 1,Premium(15€-30€),Ferrari,White wine,7 %,4 years,1,Female,Student,Masters,Russia,Instagram,Low,0
+125,5,4,Option 2,Premium(15€-30€),Mezzacorona,Sparkling wine,7 %,1 year ,1,Female,Student,Masters,Russia,Instagram,Low,1
+126,5,4,Option 3,Luxury(50€-100€),Cantina Toblino,Rose wine,12 %,2 years,1,Female,Student,Masters,Russia,Instagram,Low,0
+127,5,4,Option 4,Popular(10€-15€),Mezzacorona,White wine,18 %,2 years,1,Female,Student,Masters,Russia,Instagram,Low,0
+128,5,5,Option 1,Popular(10€-15€),Ferrari,White wine,5.5 %,2 years,1,Female,Student,Masters,Russia,Instagram,Low,1
+129,5,5,Option 2,Luxury(50€-100€),Cavit,Red wine,5.5 %,1 year ,1,Female,Student,Masters,Russia,Instagram,Low,0
+130,5,5,Option 3,Luxury(50€-100€),Ferrari,White wine,18 %,3 years,1,Female,Student,Masters,Russia,Instagram,Low,0
+131,5,5,Option 4,Luxury(50€-100€),Cantina Toblino,Rose wine,5.5 %,3 years,1,Female,Student,Masters,Russia,Instagram,Low,0
+132,5,6,Option 1,Value(3€-10€),Cavit,Rose wine,5.5 %,1 year ,1,Female,Student,Masters,Russia,Instagram,Low,0
+133,5,6,Option 2,Luxury(50€-100€),Cavit,Sparkling wine,5.5 %,1 year ,1,Female,Student,Masters,Russia,Instagram,Low,0
+134,5,6,Option 3,Popular(10€-15€),Ferrari,Rose wine,7 %,1 year ,1,Female,Student,Masters,Russia,Instagram,Low,0
+135,5,6,Option 4,Premium(15€-30€),Mezzacorona,Rose wine,7 %,3 years,1,Female,Student,Masters,Russia,Instagram,Low,1
+136,5,7,Option 1,Luxury(50€-100€),Cavit,White wine,5.5 %,3 years,1,Female,Student,Masters,Russia,Instagram,Low,0
+137,5,7,Option 2,Popular(10€-15€),Mezzacorona,Rose wine,18 %,5 years,1,Female,Student,Masters,Russia,Instagram,Low,0
+138,5,7,Option 3,Popular(10€-15€),Mezzacorona,White wine,12 %,2 years,1,Female,Student,Masters,Russia,Instagram,Low,1
+139,5,7,Option 4,Popular(10€-15€),Cantina Toblino,Sparkling wine,18 %,2 years,1,Female,Student,Masters,Russia,Instagram,Low,0
+140,6,1,Option 1,Premium(15€-30€),Ferrari,Red wine,7 %,2 years,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,0
+141,6,1,Option 2,Popular(10€-15€),Cantina Toblino,Rose wine,5.5 %,3 years,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,1
+142,6,1,Option 3,Luxury(50€-100€),Cantina Toblino,Sparkling wine,12 %,4 years,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,0
+143,6,1,Option 4,Value(3€-10€),Cantina Toblino,Red wine,12 %,2 years,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,0
+144,6,2,Option 1,Value(3€-10€),Cantina Toblino,Sparkling wine,5.5 %,5 years,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,0
+145,6,2,Option 2,Popular(10€-15€),Cantina Toblino,Red wine,7 %,3 years,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,0
+146,6,2,Option 3,Value(3€-10€),Cavit,Red wine,5.5 %,3 years,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,1
+147,6,2,Option 4,Value(3€-10€),Cavit,Red wine,18 %,3 years,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,0
+148,6,3,Option 1,Premium(15€-30€),Cavit,White wine,5.5 %,5 years,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,0
+149,6,3,Option 2,Premium(15€-30€),Cavit,Rose wine,12 %,4 years,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,0
+150,6,3,Option 3,Value(3€-10€),Mezzacorona,Red wine,7 %,1 year ,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,1
+151,6,3,Option 4,Premium(15€-30€),Ferrari,Sparkling wine,7 %,3 years,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,0
+152,6,4,Option 1,Popular(10€-15€),Mezzacorona,Sparkling wine,12 %,1 year ,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,1
+153,6,4,Option 2,Value(3€-10€),Cavit,White wine,18 %,4 years,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,0
+154,6,4,Option 3,Premium(15€-30€),Cantina Toblino,Rose wine,5.5 %,2 years,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,0
+155,6,4,Option 4,Premium(15€-30€),Cavit,White wine,7 %,5 years,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,0
+156,6,5,Option 1,Value(3€-10€),Ferrari,Rose wine,7 %,1 year ,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,1
+157,6,5,Option 2,Luxury(50€-100€),Ferrari,White wine,7 %,2 years,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,0
+158,6,5,Option 3,Luxury(50€-100€),Mezzacorona,Sparkling wine,12 %,4 years,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,0
+159,6,5,Option 4,Popular(10€-15€),Cantina Toblino,Sparkling wine,18 %,4 years,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,0
+160,6,6,Option 1,Luxury(50€-100€),Mezzacorona,Sparkling wine,12 %,2 years,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,0
+161,6,6,Option 2,Value(3€-10€),Ferrari,Red wine,7 %,3 years,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,0
+162,6,6,Option 3,Value(3€-10€),Ferrari,Sparkling wine,5.5 %,3 years,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,1
+163,6,6,Option 4,Value(3€-10€),Ferrari,Sparkling wine,7 %,2 years,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,0
+164,6,7,Option 1,Popular(10€-15€),Mezzacorona,Red wine,12 %,3 years,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,0
+165,6,7,Option 2,Premium(15€-30€),Cavit,Sparkling wine,5.5 %,1 year ,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,0
+166,6,7,Option 3,Premium(15€-30€),Cavit,Sparkling wine,7 %,1 year ,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,1
+167,6,7,Option 4,Value(3€-10€),Cavit,Rose wine,12 %,1 year ,1,Female,Student,Bachelors,Italian,"Facebook,Instagram,Twitter,Linkden",Moderate,0
+168,7,1,Option 1,Value(3€-10€),Cantina Toblino,Rose wine,18 %,2 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+169,7,1,Option 2,Luxury(50€-100€),Ferrari,Rose wine,12 %,5 years,1,Female,Student,Bachelors,Italian,Instagram,Low,1
+170,7,1,Option 3,Value(3€-10€),Ferrari,Red wine,5.5 %,2 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+171,7,1,Option 4,Value(3€-10€),Cavit,Sparkling wine,5.5 %,4 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+172,7,2,Option 1,Luxury(50€-100€),Cantina Toblino,Sparkling wine,7 %,4 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+173,7,2,Option 2,Popular(10€-15€),Cantina Toblino,Sparkling wine,7 %,1 year ,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+174,7,2,Option 3,Popular(10€-15€),Mezzacorona,Red wine,12 %,1 year ,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+175,7,2,Option 4,Premium(15€-30€),Ferrari,White wine,5.5 %,3 years,1,Female,Student,Bachelors,Italian,Instagram,Low,1
+176,7,3,Option 1,Luxury(50€-100€),Mezzacorona,Sparkling wine,18 %,3 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+177,7,3,Option 2,Popular(10€-15€),Cantina Toblino,Rose wine,7 %,3 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+178,7,3,Option 3,Value(3€-10€),Ferrari,Rose wine,18 %,4 years,1,Female,Student,Bachelors,Italian,Instagram,Low,1
+179,7,3,Option 4,Popular(10€-15€),Cavit,Red wine,18 %,3 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+180,7,4,Option 1,Popular(10€-15€),Ferrari,Sparkling wine,5.5 %,4 years,1,Female,Student,Bachelors,Italian,Instagram,Low,1
+181,7,4,Option 2,Luxury(50€-100€),Mezzacorona,Sparkling wine,7 %,5 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+182,7,4,Option 3,Value(3€-10€),Mezzacorona,Red wine,18 %,3 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+183,7,4,Option 4,Popular(10€-15€),Cantina Toblino,Red wine,12 %,4 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+184,7,5,Option 1,Luxury(50€-100€),Ferrari,Red wine,5.5 %,4 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+185,7,5,Option 2,Luxury(50€-100€),Ferrari,White wine,7 %,2 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+186,7,5,Option 3,Popular(10€-15€),Cavit,Sparkling wine,7 %,3 years,1,Female,Student,Bachelors,Italian,Instagram,Low,1
+187,7,5,Option 4,Popular(10€-15€),Cantina Toblino,Rose wine,18 %,2 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+188,7,6,Option 1,Premium(15€-30€),Cavit,Sparkling wine,12 %,4 years,1,Female,Student,Bachelors,Italian,Instagram,Low,1
+189,7,6,Option 2,Luxury(50€-100€),Ferrari,Rose wine,12 %,2 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+190,7,6,Option 3,Luxury(50€-100€),Cavit,Rose wine,7 %,5 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+191,7,6,Option 4,Popular(10€-15€),Ferrari,Rose wine,7 %,1 year ,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+192,7,7,Option 1,Premium(15€-30€),Cantina Toblino,Red wine,12 %,5 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+193,7,7,Option 2,Value(3€-10€),Cavit,White wine,5.5 %,5 years,1,Female,Student,Bachelors,Italian,Instagram,Low,1
+194,7,7,Option 3,Premium(15€-30€),Mezzacorona,White wine,12 %,1 year ,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+195,7,7,Option 4,Premium(15€-30€),Cantina Toblino,Red wine,7 %,1 year ,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+196,8,1,Option 1,Popular(10€-15€),Cantina Toblino,Rose wine,12 %,4 years,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,0
+197,8,1,Option 2,Luxury(50€-100€),Cantina Toblino,White wine,5.5 %,4 years,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,0
+198,8,1,Option 3,Value(3€-10€),Cantina Toblino,Sparkling wine,12 %,4 years,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,1
+199,8,1,Option 4,Luxury(50€-100€),Cavit,Rose wine,18 %,1 year ,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,0
+200,8,2,Option 1,Popular(10€-15€),Cavit,Rose wine,12 %,2 years,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,1
+201,8,2,Option 2,Luxury(50€-100€),Cavit,Red wine,7 %,1 year ,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,0
+202,8,2,Option 3,Luxury(50€-100€),Ferrari,Red wine,12 %,4 years,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,0
+203,8,2,Option 4,Premium(15€-30€),Cantina Toblino,Red wine,18 %,1 year ,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,0
+204,8,3,Option 1,Luxury(50€-100€),Ferrari,Rose wine,12 %,2 years,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,0
+205,8,3,Option 2,Popular(10€-15€),Cantina Toblino,Sparkling wine,5.5 %,4 years,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,0
+206,8,3,Option 3,Premium(15€-30€),Cavit,Red wine,18 %,1 year ,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,0
+207,8,3,Option 4,Popular(10€-15€),Ferrari,Red wine,7 %,3 years,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,1
+208,8,4,Option 1,Value(3€-10€),Cantina Toblino,Sparkling wine,7 %,4 years,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,1
+209,8,4,Option 2,Value(3€-10€),Cavit,White wine,7 %,1 year ,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,0
+210,8,4,Option 3,Premium(15€-30€),Cantina Toblino,Red wine,12 %,5 years,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,0
+211,8,4,Option 4,Value(3€-10€),Mezzacorona,Sparkling wine,18 %,3 years,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,0
+212,8,5,Option 1,Popular(10€-15€),Ferrari,Red wine,12 %,4 years,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,0
+213,8,5,Option 2,Popular(10€-15€),Cantina Toblino,Sparkling wine,18 %,5 years,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,0
+214,8,5,Option 3,Value(3€-10€),Cantina Toblino,White wine,5.5 %,5 years,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,0
+215,8,5,Option 4,Premium(15€-30€),Ferrari,Red wine,5.5 %,1 year ,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,1
+216,8,6,Option 1,Luxury(50€-100€),Mezzacorona,Rose wine,12 %,3 years,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,0
+217,8,6,Option 2,Luxury(50€-100€),Cavit,White wine,7 %,3 years,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,0
+218,8,6,Option 3,Popular(10€-15€),Mezzacorona,Red wine,12 %,3 years,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,0
+219,8,6,Option 4,Popular(10€-15€),Ferrari,Red wine,12 %,5 years,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,1
+220,8,7,Option 1,Luxury(50€-100€),Mezzacorona,White wine,18 %,4 years,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,0
+221,8,7,Option 2,Popular(10€-15€),Mezzacorona,Rose wine,18 %,1 year ,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,0
+222,8,7,Option 3,Value(3€-10€),Ferrari,White wine,7 %,1 year ,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,1
+223,8,7,Option 4,Premium(15€-30€),Ferrari,Sparkling wine,7 %,2 years,1,Female,Student,Masters,Pakistan,"Facebook,Instagram,Linkdin",Moderate,0
+224,9,1,Option 1,Luxury(50€-100€),Cantina Toblino,White wine,5.5 %,2 years,1,Female,Student,Bachelors,Syrian,Instagram,High,1
+225,9,1,Option 2,Premium(15€-30€),Cantina Toblino,Red wine,12 %,1 year ,1,Female,Student,Bachelors,Syrian,Instagram,High,0
+226,9,1,Option 3,Popular(10€-15€),Mezzacorona,Red wine,12 %,2 years,1,Female,Student,Bachelors,Syrian,Instagram,High,0
+227,9,1,Option 4,Premium(15€-30€),Cavit,White wine,18 %,5 years,1,Female,Student,Bachelors,Syrian,Instagram,High,0
+228,9,2,Option 1,Popular(10€-15€),Cavit,Rose wine,18 %,5 years,1,Female,Student,Bachelors,Syrian,Instagram,High,0
+229,9,2,Option 2,Luxury(50€-100€),Cantina Toblino,Sparkling wine,7 %,4 years,1,Female,Student,Bachelors,Syrian,Instagram,High,0
+230,9,2,Option 3,Value(3€-10€),Cavit,Red wine,12 %,3 years,1,Female,Student,Bachelors,Syrian,Instagram,High,0
+231,9,2,Option 4,Premium(15€-30€),Mezzacorona,White wine,12 %,2 years,1,Female,Student,Bachelors,Syrian,Instagram,High,1
+232,9,3,Option 1,Luxury(50€-100€),Mezzacorona,Rose wine,12 %,5 years,1,Female,Student,Bachelors,Syrian,Instagram,High,0
+233,9,3,Option 2,Popular(10€-15€),Cantina Toblino,Sparkling wine,5.5 %,5 years,1,Female,Student,Bachelors,Syrian,Instagram,High,0
+234,9,3,Option 3,Value(3€-10€),Ferrari,Sparkling wine,18 %,2 years,1,Female,Student,Bachelors,Syrian,Instagram,High,1
+235,9,3,Option 4,Luxury(50€-100€),Cavit,Rose wine,18 %,3 years,1,Female,Student,Bachelors,Syrian,Instagram,High,0
+236,9,4,Option 1,Premium(15€-30€),Ferrari,White wine,5.5 %,2 years,1,Female,Student,Bachelors,Syrian,Instagram,High,1
+237,9,4,Option 2,Luxury(50€-100€),Ferrari,Sparkling wine,12 %,5 years,1,Female,Student,Bachelors,Syrian,Instagram,High,0
+238,9,4,Option 3,Value(3€-10€),Ferrari,Sparkling wine,7 %,3 years,1,Female,Student,Bachelors,Syrian,Instagram,High,0
+239,9,4,Option 4,Luxury(50€-100€),Ferrari,Red wine,5.5 %,1 year ,1,Female,Student,Bachelors,Syrian,Instagram,High,0
+240,9,5,Option 1,Premium(15€-30€),Ferrari,Sparkling wine,7 %,4 years,1,Female,Student,Bachelors,Syrian,Instagram,High,0
+241,9,5,Option 2,Value(3€-10€),Cavit,White wine,12 %,4 years,1,Female,Student,Bachelors,Syrian,Instagram,High,0
+242,9,5,Option 3,Value(3€-10€),Mezzacorona,White wine,7 %,2 years,1,Female,Student,Bachelors,Syrian,Instagram,High,1
+243,9,5,Option 4,Premium(15€-30€),Cantina Toblino,Red wine,7 %,5 years,1,Female,Student,Bachelors,Syrian,Instagram,High,0
+244,9,6,Option 1,Popular(10€-15€),Cantina Toblino,Sparkling wine,18 %,4 years,1,Female,Student,Bachelors,Syrian,Instagram,High,0
+245,9,6,Option 2,Luxury(50€-100€),Cantina Toblino,Rose wine,18 %,4 years,1,Female,Student,Bachelors,Syrian,Instagram,High,0
+246,9,6,Option 3,Popular(10€-15€),Cavit,White wine,12 %,1 year ,1,Female,Student,Bachelors,Syrian,Instagram,High,0
+247,9,6,Option 4,Premium(15€-30€),Ferrari,Rose wine,7 %,4 years,1,Female,Student,Bachelors,Syrian,Instagram,High,1
+248,9,7,Option 1,Luxury(50€-100€),Cantina Toblino,Sparkling wine,18 %,5 years,1,Female,Student,Bachelors,Syrian,Instagram,High,0
+249,9,7,Option 2,Luxury(50€-100€),Cavit,White wine,12 %,1 year ,1,Female,Student,Bachelors,Syrian,Instagram,High,0
+250,9,7,Option 3,Premium(15€-30€),Cavit,Rose wine,7 %,4 years,1,Female,Student,Bachelors,Syrian,Instagram,High,0
+251,9,7,Option 4,Value(3€-10€),Mezzacorona,White wine,18 %,4 years,1,Female,Student,Bachelors,Syrian,Instagram,High,1
+252,10,1,Option 1,Popular(10€-15€),Cantina Toblino,White wine,7 %,1 year ,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,0
+253,10,1,Option 2,Popular(10€-15€),Mezzacorona,White wine,18 %,1 year ,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,0
+254,10,1,Option 3,Premium(15€-30€),Cavit,White wine,5.5 %,5 years,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,1
+255,10,1,Option 4,Premium(15€-30€),Cantina Toblino,Rose wine,18 %,3 years,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,0
+256,10,2,Option 1,Premium(15€-30€),Cavit,Red wine,12 %,5 years,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,0
+257,10,2,Option 2,Value(3€-10€),Ferrari,Rose wine,7 %,2 years,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,0
+258,10,2,Option 3,Popular(10€-15€),Cavit,White wine,18 %,2 years,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,0
+259,10,2,Option 4,Premium(15€-30€),Ferrari,Sparkling wine,7 %,1 year ,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,1
+260,10,3,Option 1,Value(3€-10€),Ferrari,Sparkling wine,12 %,1 year ,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,0
+261,10,3,Option 2,Luxury(50€-100€),Cavit,Red wine,12 %,5 years,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,0
+262,10,3,Option 3,Premium(15€-30€),Mezzacorona,Sparkling wine,5.5 %,1 year ,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,1
+263,10,3,Option 4,Premium(15€-30€),Cantina Toblino,Red wine,7 %,2 years,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,0
+264,10,4,Option 1,Luxury(50€-100€),Cantina Toblino,Rose wine,18 %,4 years,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,0
+265,10,4,Option 2,Premium(15€-30€),Cavit,Rose wine,18 %,1 year ,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,0
+266,10,4,Option 3,Popular(10€-15€),Mezzacorona,Sparkling wine,5.5 %,4 years,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,1
+267,10,4,Option 4,Premium(15€-30€),Cantina Toblino,Sparkling wine,18 %,3 years,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,0
+268,10,5,Option 1,Luxury(50€-100€),Cantina Toblino,White wine,18 %,5 years,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,0
+269,10,5,Option 2,Popular(10€-15€),Ferrari,Red wine,18 %,2 years,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,1
+270,10,5,Option 3,Luxury(50€-100€),Cantina Toblino,Rose wine,5.5 %,4 years,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,0
+271,10,5,Option 4,Luxury(50€-100€),Ferrari,Rose wine,7 %,3 years,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,0
+272,10,6,Option 1,Luxury(50€-100€),Mezzacorona,Red wine,7 %,3 years,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,0
+273,10,6,Option 2,Popular(10€-15€),Ferrari,Sparkling wine,5.5 %,3 years,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,1
+274,10,6,Option 3,Popular(10€-15€),Mezzacorona,Red wine,5.5 %,5 years,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,0
+275,10,6,Option 4,Popular(10€-15€),Mezzacorona,Rose wine,12 %,2 years,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,0
+276,10,7,Option 1,Popular(10€-15€),Cantina Toblino,White wine,5.5 %,1 year ,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,0
+277,10,7,Option 2,Premium(15€-30€),Ferrari,Red wine,7 %,2 years,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,0
+278,10,7,Option 3,Popular(10€-15€),Cantina Toblino,Red wine,18 %,2 years,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,0
+279,10,7,Option 4,Premium(15€-30€),Ferrari,Rose wine,5.5 %,3 years,1,Female,Student,Masters,Iranian,"Instagram,Twitter",Low,1
+280,11,1,Option 1,Popular(10€-15€),Ferrari,Sparkling wine,5.5 %,2 years,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,0
+281,11,1,Option 2,Value(3€-10€),Cantina Toblino,Red wine,18 %,5 years,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,1
+282,11,1,Option 3,Popular(10€-15€),Ferrari,Rose wine,7 %,4 years,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,0
+283,11,1,Option 4,Popular(10€-15€),Cantina Toblino,Red wine,12 %,3 years,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,0
+284,11,2,Option 1,Popular(10€-15€),Cavit,White wine,12 %,4 years,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,0
+285,11,2,Option 2,Luxury(50€-100€),Cavit,Sparkling wine,18 %,5 years,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,0
+286,11,2,Option 3,Premium(15€-30€),Cantina Toblino,White wine,12 %,3 years,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,0
+287,11,2,Option 4,Value(3€-10€),Cantina Toblino,Red wine,18 %,2 years,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,1
+288,11,3,Option 1,Luxury(50€-100€),Cantina Toblino,Sparkling wine,18 %,1 year ,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,0
+289,11,3,Option 2,Value(3€-10€),Mezzacorona,Sparkling wine,12 %,1 year ,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,0
+290,11,3,Option 3,Value(3€-10€),Ferrari,White wine,12 %,1 year ,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,0
+291,11,3,Option 4,Value(3€-10€),Ferrari,Red wine,5.5 %,5 years,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,1
+292,11,4,Option 1,Premium(15€-30€),Cantina Toblino,Rose wine,12 %,4 years,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,0
+293,11,4,Option 2,Premium(15€-30€),Cantina Toblino,Red wine,18 %,4 years,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,0
+294,11,4,Option 3,Value(3€-10€),Cavit,Rose wine,5.5 %,3 years,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,0
+295,11,4,Option 4,Value(3€-10€),Cavit,Sparkling wine,5.5 %,1 year ,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,1
+296,11,5,Option 1,Popular(10€-15€),Cantina Toblino,Rose wine,12 %,5 years,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,0
+297,11,5,Option 2,Premium(15€-30€),Cavit,Rose wine,12 %,4 years,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,0
+298,11,5,Option 3,Value(3€-10€),Mezzacorona,Rose wine,18 %,3 years,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,1
+299,11,5,Option 4,Premium(15€-30€),Ferrari,Rose wine,18 %,2 years,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,0
+300,11,6,Option 1,Luxury(50€-100€),Ferrari,Rose wine,12 %,3 years,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,0
+301,11,6,Option 2,Premium(15€-30€),Mezzacorona,Rose wine,5.5 %,5 years,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,0
+302,11,6,Option 3,Premium(15€-30€),Mezzacorona,Red wine,18 %,3 years,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,0
+303,11,6,Option 4,Value(3€-10€),Mezzacorona,Rose wine,5.5 %,5 years,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,1
+304,11,7,Option 1,Popular(10€-15€),Cantina Toblino,White wine,12 %,3 years,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,1
+305,11,7,Option 2,Premium(15€-30€),Cavit,Rose wine,7 %,1 year ,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,0
+306,11,7,Option 3,Popular(10€-15€),Cavit,Sparkling wine,7 %,1 year ,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,0
+307,11,7,Option 4,Popular(10€-15€),Cavit,White wine,7 %,5 years,1,Male,Student,Masters,Mongolic,"Facebook,Instagram",Moderate,0
+308,12,1,Option 1,Premium(15€-30€),Ferrari,Sparkling wine,12 %,5 years,1,Male,Student,Masters,German,None of them,Moderate,0
+309,12,1,Option 2,Premium(15€-30€),Cavit,White wine,18 %,3 years,1,Male,Student,Masters,German,None of them,Moderate,0
+310,12,1,Option 3,Premium(15€-30€),Mezzacorona,White wine,5.5 %,2 years,1,Male,Student,Masters,German,None of them,Moderate,0
+311,12,1,Option 4,Premium(15€-30€),Mezzacorona,Red wine,18 %,2 years,1,Male,Student,Masters,German,None of them,Moderate,1
+312,12,2,Option 1,Popular(10€-15€),Mezzacorona,Red wine,5.5 %,4 years,1,Male,Student,Masters,German,None of them,Moderate,0
+313,12,2,Option 2,Value(3€-10€),Cavit,Red wine,12 %,1 year ,1,Male,Student,Masters,German,None of them,Moderate,1
+314,12,2,Option 3,Luxury(50€-100€),Ferrari,Sparkling wine,7 %,3 years,1,Male,Student,Masters,German,None of them,Moderate,0
+315,12,2,Option 4,Value(3€-10€),Cavit,Sparkling wine,5.5 %,4 years,1,Male,Student,Masters,German,None of them,Moderate,0
+316,12,3,Option 1,Premium(15€-30€),Mezzacorona,Rose wine,7 %,3 years,1,Male,Student,Masters,German,None of them,Moderate,0
+317,12,3,Option 2,Popular(10€-15€),Ferrari,Rose wine,7 %,1 year ,1,Male,Student,Masters,German,None of them,Moderate,0
+318,12,3,Option 3,Popular(10€-15€),Mezzacorona,White wine,12 %,5 years,1,Male,Student,Masters,German,None of them,Moderate,1
+319,12,3,Option 4,Value(3€-10€),Ferrari,Sparkling wine,18 %,2 years,1,Male,Student,Masters,German,None of them,Moderate,0
+320,12,4,Option 1,Value(3€-10€),Cantina Toblino,Sparkling wine,12 %,4 years,1,Male,Student,Masters,German,None of them,Moderate,1
+321,12,4,Option 2,Premium(15€-30€),Cantina Toblino,Sparkling wine,7 %,4 years,1,Male,Student,Masters,German,None of them,Moderate,0
+322,12,4,Option 3,Luxury(50€-100€),Ferrari,Rose wine,18 %,3 years,1,Male,Student,Masters,German,None of them,Moderate,0
+323,12,4,Option 4,Value(3€-10€),Cavit,Rose wine,12 %,4 years,1,Male,Student,Masters,German,None of them,Moderate,0
+324,12,5,Option 1,Popular(10€-15€),Cavit,Red wine,5.5 %,5 years,1,Male,Student,Masters,German,None of them,Moderate,0
+325,12,5,Option 2,Premium(15€-30€),Cantina Toblino,White wine,18 %,1 year ,1,Male,Student,Masters,German,None of them,Moderate,0
+326,12,5,Option 3,Luxury(50€-100€),Cavit,White wine,5.5 %,3 years,1,Male,Student,Masters,German,None of them,Moderate,1
+327,12,5,Option 4,Popular(10€-15€),Ferrari,White wine,18 %,2 years,1,Male,Student,Masters,German,None of them,Moderate,0
+328,12,6,Option 1,Premium(15€-30€),Mezzacorona,Red wine,5.5 %,2 years,1,Male,Student,Masters,German,None of them,Moderate,0
+329,12,6,Option 2,Popular(10€-15€),Cavit,Sparkling wine,7 %,3 years,1,Male,Student,Masters,German,None of them,Moderate,1
+330,12,6,Option 3,Premium(15€-30€),Ferrari,Rose wine,7 %,4 years,1,Male,Student,Masters,German,None of them,Moderate,0
+331,12,6,Option 4,Luxury(50€-100€),Cavit,Sparkling wine,5.5 %,3 years,1,Male,Student,Masters,German,None of them,Moderate,0
+332,12,7,Option 1,Premium(15€-30€),Mezzacorona,White wine,7 %,5 years,1,Male,Student,Masters,German,None of them,Moderate,0
+333,12,7,Option 2,Popular(10€-15€),Ferrari,Sparkling wine,5.5 %,1 year ,1,Male,Student,Masters,German,None of them,Moderate,0
+334,12,7,Option 3,Value(3€-10€),Cantina Toblino,White wine,18 %,4 years,1,Male,Student,Masters,German,None of them,Moderate,0
+335,12,7,Option 4,Value(3€-10€),Ferrari,White wine,7 %,1 year ,1,Male,Student,Masters,German,None of them,Moderate,1
+336,13,1,Option 1,Value(3€-10€),Cantina Toblino,Rose wine,18 %,5 years,1,Male,Student,Masters,Asian,Linkedin,Moderate,0
+337,13,1,Option 2,Luxury(50€-100€),Cantina Toblino,Sparkling wine,5.5 %,1 year ,1,Male,Student,Masters,Asian,Linkedin,Moderate,0
+338,13,1,Option 3,Premium(15€-30€),Cantina Toblino,Rose wine,7 %,1 year ,1,Male,Student,Masters,Asian,Linkedin,Moderate,0
+339,13,1,Option 4,Popular(10€-15€),Cantina Toblino,White wine,7 %,2 years,1,Male,Student,Masters,Asian,Linkedin,Moderate,1
+340,13,2,Option 1,Luxury(50€-100€),Ferrari,White wine,5.5 %,4 years,1,Male,Student,Masters,Asian,Linkedin,Moderate,0
+341,13,2,Option 2,Popular(10€-15€),Cavit,White wine,18 %,4 years,1,Male,Student,Masters,Asian,Linkedin,Moderate,1
+342,13,2,Option 3,Value(3€-10€),Mezzacorona,White wine,18 %,2 years,1,Male,Student,Masters,Asian,Linkedin,Moderate,0
+343,13,2,Option 4,Value(3€-10€),Cavit,Red wine,5.5 %,4 years,1,Male,Student,Masters,Asian,Linkedin,Moderate,0
+344,13,3,Option 1,Popular(10€-15€),Cavit,Rose wine,12 %,5 years,1,Male,Student,Masters,Asian,Linkedin,Moderate,1
+345,13,3,Option 2,Popular(10€-15€),Cantina Toblino,Red wine,5.5 %,3 years,1,Male,Student,Masters,Asian,Linkedin,Moderate,0
+346,13,3,Option 3,Premium(15€-30€),Cantina Toblino,White wine,7 %,3 years,1,Male,Student,Masters,Asian,Linkedin,Moderate,0
+347,13,3,Option 4,Popular(10€-15€),Ferrari,White wine,12 %,5 years,1,Male,Student,Masters,Asian,Linkedin,Moderate,0
+348,13,4,Option 1,Value(3€-10€),Cantina Toblino,Red wine,7 %,3 years,1,Male,Student,Masters,Asian,Linkedin,Moderate,0
+349,13,4,Option 2,Luxury(50€-100€),Cavit,Sparkling wine,18 %,2 years,1,Male,Student,Masters,Asian,Linkedin,Moderate,0
+350,13,4,Option 3,Premium(15€-30€),Cantina Toblino,Sparkling wine,5.5 %,2 years,1,Male,Student,Masters,Asian,Linkedin,Moderate,0
+351,13,4,Option 4,Popular(10€-15€),Mezzacorona,Rose wine,12 %,3 years,1,Male,Student,Masters,Asian,Linkedin,Moderate,1
+352,13,5,Option 1,Popular(10€-15€),Cantina Toblino,Sparkling wine,12 %,4 years,1,Male,Student,Masters,Asian,Linkedin,Moderate,0
+353,13,5,Option 2,Popular(10€-15€),Cavit,White wine,5.5 %,3 years,1,Male,Student,Masters,Asian,Linkedin,Moderate,1
+354,13,5,Option 3,Luxury(50€-100€),Mezzacorona,Red wine,12 %,3 years,1,Male,Student,Masters,Asian,Linkedin,Moderate,0
+355,13,5,Option 4,Premium(15€-30€),Cavit,Sparkling wine,18 %,5 years,1,Male,Student,Masters,Asian,Linkedin,Moderate,0
+356,13,6,Option 1,Value(3€-10€),Ferrari,Rose wine,18 %,4 years,1,Male,Student,Masters,Asian,Linkedin,Moderate,0
+357,13,6,Option 2,Value(3€-10€),Mezzacorona,Rose wine,7 %,3 years,1,Male,Student,Masters,Asian,Linkedin,Moderate,0
+358,13,6,Option 3,Popular(10€-15€),Mezzacorona,White wine,12 %,5 years,1,Male,Student,Masters,Asian,Linkedin,Moderate,1
+359,13,6,Option 4,Premium(15€-30€),Ferrari,Red wine,7 %,1 year ,1,Male,Student,Masters,Asian,Linkedin,Moderate,0
+360,13,7,Option 1,Value(3€-10€),Cantina Toblino,White wine,5.5 %,1 year ,1,Male,Student,Masters,Asian,Linkedin,Moderate,0
+361,13,7,Option 2,Luxury(50€-100€),Cantina Toblino,Sparkling wine,18 %,2 years,1,Male,Student,Masters,Asian,Linkedin,Moderate,0
+362,13,7,Option 3,Luxury(50€-100€),Ferrari,White wine,12 %,3 years,1,Male,Student,Masters,Asian,Linkedin,Moderate,0
+363,13,7,Option 4,Popular(10€-15€),Cantina Toblino,Rose wine,7 %,3 years,1,Male,Student,Masters,Asian,Linkedin,Moderate,1
+364,14,1,Option 1,Value(3€-10€),Cantina Toblino,Red wine,5.5 %,4 years,1,Female,Student,Bachelors,Italian,Instagram,Moderate,0
+365,14,1,Option 2,Value(3€-10€),Cantina Toblino,Rose wine,12 %,2 years,1,Female,Student,Bachelors,Italian,Instagram,Moderate,0
+366,14,1,Option 3,Popular(10€-15€),Cantina Toblino,Red wine,18 %,5 years,1,Female,Student,Bachelors,Italian,Instagram,Moderate,0
+367,14,1,Option 4,Value(3€-10€),Mezzacorona,Red wine,7 %,2 years,1,Female,Student,Bachelors,Italian,Instagram,Moderate,1
+368,14,2,Option 1,Popular(10€-15€),Cavit,Sparkling wine,12 %,1 year ,1,Female,Student,Bachelors,Italian,Instagram,Moderate,1
+369,14,2,Option 2,Popular(10€-15€),Cavit,Red wine,12 %,1 year ,1,Female,Student,Bachelors,Italian,Instagram,Moderate,0
+370,14,2,Option 3,Luxury(50€-100€),Cantina Toblino,Red wine,18 %,5 years,1,Female,Student,Bachelors,Italian,Instagram,Moderate,0
+371,14,2,Option 4,Value(3€-10€),Ferrari,White wine,12 %,1 year ,1,Female,Student,Bachelors,Italian,Instagram,Moderate,0
+372,14,3,Option 1,Popular(10€-15€),Cavit,White wine,5.5 %,1 year ,1,Female,Student,Bachelors,Italian,Instagram,Moderate,1
+373,14,3,Option 2,Popular(10€-15€),Ferrari,Red wine,7 %,2 years,1,Female,Student,Bachelors,Italian,Instagram,Moderate,0
+374,14,3,Option 3,Popular(10€-15€),Ferrari,Rose wine,5.5 %,2 years,1,Female,Student,Bachelors,Italian,Instagram,Moderate,0
+375,14,3,Option 4,Premium(15€-30€),Mezzacorona,Sparkling wine,5.5 %,3 years,1,Female,Student,Bachelors,Italian,Instagram,Moderate,0
+376,14,4,Option 1,Premium(15€-30€),Ferrari,White wine,12 %,5 years,1,Female,Student,Bachelors,Italian,Instagram,Moderate,0
+377,14,4,Option 2,Value(3€-10€),Cavit,White wine,7 %,5 years,1,Female,Student,Bachelors,Italian,Instagram,Moderate,1
+378,14,4,Option 3,Value(3€-10€),Cavit,White wine,12 %,2 years,1,Female,Student,Bachelors,Italian,Instagram,Moderate,0
+379,14,4,Option 4,Luxury(50€-100€),Cavit,Sparkling wine,18 %,4 years,1,Female,Student,Bachelors,Italian,Instagram,Moderate,0
+380,14,5,Option 1,Luxury(50€-100€),Ferrari,Rose wine,7 %,4 years,1,Female,Student,Bachelors,Italian,Instagram,Moderate,0
+381,14,5,Option 2,Value(3€-10€),Mezzacorona,White wine,18 %,3 years,1,Female,Student,Bachelors,Italian,Instagram,Moderate,0
+382,14,5,Option 3,Premium(15€-30€),Cantina Toblino,Sparkling wine,18 %,5 years,1,Female,Student,Bachelors,Italian,Instagram,Moderate,1
+383,14,5,Option 4,Premium(15€-30€),Cantina Toblino,Red wine,12 %,5 years,1,Female,Student,Bachelors,Italian,Instagram,Moderate,0
+384,14,6,Option 1,Luxury(50€-100€),Mezzacorona,Rose wine,18 %,3 years,1,Female,Student,Bachelors,Italian,Instagram,Moderate,0
+385,14,6,Option 2,Value(3€-10€),Mezzacorona,Sparkling wine,7 %,5 years,1,Female,Student,Bachelors,Italian,Instagram,Moderate,1
+386,14,6,Option 3,Luxury(50€-100€),Mezzacorona,Sparkling wine,18 %,1 year ,1,Female,Student,Bachelors,Italian,Instagram,Moderate,0
+387,14,6,Option 4,Value(3€-10€),Cantina Toblino,Red wine,12 %,1 year ,1,Female,Student,Bachelors,Italian,Instagram,Moderate,0
+388,14,7,Option 1,Premium(15€-30€),Cavit,Rose wine,12 %,1 year ,1,Female,Student,Bachelors,Italian,Instagram,Moderate,0
+389,14,7,Option 2,Value(3€-10€),Ferrari,Red wine,12 %,2 years,1,Female,Student,Bachelors,Italian,Instagram,Moderate,0
+390,14,7,Option 3,Popular(10€-15€),Cavit,White wine,18 %,3 years,1,Female,Student,Bachelors,Italian,Instagram,Moderate,1
+391,14,7,Option 4,Popular(10€-15€),Cantina Toblino,Red wine,12 %,5 years,1,Female,Student,Bachelors,Italian,Instagram,Moderate,0
+392,15,1,Option 1,Premium(15€-30€),Cavit,Red wine,18 %,3 years,1,Male,Student,Bachelors,Italian,None of them,Moderate,1
+393,15,1,Option 2,Premium(15€-30€),Mezzacorona,Sparkling wine,7 %,1 year ,1,Male,Student,Bachelors,Italian,None of them,Moderate,0
+394,15,1,Option 3,Value(3€-10€),Cantina Toblino,Sparkling wine,7 %,3 years,1,Male,Student,Bachelors,Italian,None of them,Moderate,0
+395,15,1,Option 4,Popular(10€-15€),Mezzacorona,Rose wine,5.5 %,4 years,1,Male,Student,Bachelors,Italian,None of them,Moderate,0
+396,15,2,Option 1,Premium(15€-30€),Mezzacorona,Sparkling wine,7 %,5 years,1,Male,Student,Bachelors,Italian,None of them,Moderate,0
+397,15,2,Option 2,Value(3€-10€),Mezzacorona,Red wine,5.5 %,1 year ,1,Male,Student,Bachelors,Italian,None of them,Moderate,0
+398,15,2,Option 3,Value(3€-10€),Cavit,White wine,5.5 %,2 years,1,Male,Student,Bachelors,Italian,None of them,Moderate,1
+399,15,2,Option 4,Premium(15€-30€),Ferrari,Rose wine,12 %,4 years,1,Male,Student,Bachelors,Italian,None of them,Moderate,0
+400,15,3,Option 1,Value(3€-10€),Ferrari,Sparkling wine,7 %,3 years,1,Male,Student,Bachelors,Italian,None of them,Moderate,0
+401,15,3,Option 2,Premium(15€-30€),Cantina Toblino,Red wine,7 %,2 years,1,Male,Student,Bachelors,Italian,None of them,Moderate,1
+402,15,3,Option 3,Value(3€-10€),Cantina Toblino,Sparkling wine,18 %,5 years,1,Male,Student,Bachelors,Italian,None of them,Moderate,0
+403,15,3,Option 4,Premium(15€-30€),Ferrari,Sparkling wine,18 %,5 years,1,Male,Student,Bachelors,Italian,None of them,Moderate,0
+404,15,4,Option 1,Value(3€-10€),Ferrari,Red wine,5.5 %,4 years,1,Male,Student,Bachelors,Italian,None of them,Moderate,0
+405,15,4,Option 2,Premium(15€-30€),Cantina Toblino,White wine,12 %,1 year ,1,Male,Student,Bachelors,Italian,None of them,Moderate,1
+406,15,4,Option 3,Popular(10€-15€),Cantina Toblino,Red wine,7 %,3 years,1,Male,Student,Bachelors,Italian,None of them,Moderate,0
+407,15,4,Option 4,Luxury(50€-100€),Ferrari,Sparkling wine,7 %,3 years,1,Male,Student,Bachelors,Italian,None of them,Moderate,0
+408,15,5,Option 1,Premium(15€-30€),Cantina Toblino,White wine,5.5 %,3 years,1,Male,Student,Bachelors,Italian,None of them,Moderate,0
+409,15,5,Option 2,Premium(15€-30€),Mezzacorona,White wine,5.5 %,3 years,1,Male,Student,Bachelors,Italian,None of them,Moderate,1
+410,15,5,Option 3,Value(3€-10€),Ferrari,Rose wine,5.5 %,4 years,1,Male,Student,Bachelors,Italian,None of them,Moderate,0
+411,15,5,Option 4,Popular(10€-15€),Cantina Toblino,White wine,5.5 %,5 years,1,Male,Student,Bachelors,Italian,None of them,Moderate,0
+412,15,6,Option 1,Popular(10€-15€),Mezzacorona,Sparkling wine,7 %,1 year ,1,Male,Student,Bachelors,Italian,None of them,Moderate,0
+413,15,6,Option 2,Premium(15€-30€),Cantina Toblino,Rose wine,7 %,3 years,1,Male,Student,Bachelors,Italian,None of them,Moderate,0
+414,15,6,Option 3,Value(3€-10€),Cavit,Red wine,7 %,3 years,1,Male,Student,Bachelors,Italian,None of them,Moderate,0
+415,15,6,Option 4,Value(3€-10€),Cavit,Red wine,12 %,4 years,1,Male,Student,Bachelors,Italian,None of them,Moderate,1
+416,15,7,Option 1,Popular(10€-15€),Mezzacorona,White wine,7 %,5 years,1,Male,Student,Bachelors,Italian,None of them,Moderate,1
+417,15,7,Option 2,Popular(10€-15€),Cantina Toblino,White wine,7 %,2 years,1,Male,Student,Bachelors,Italian,None of them,Moderate,0
+418,15,7,Option 3,Value(3€-10€),Ferrari,Sparkling wine,18 %,2 years,1,Male,Student,Bachelors,Italian,None of them,Moderate,0
+419,15,7,Option 4,Luxury(50€-100€),Mezzacorona,Sparkling wine,18 %,1 year ,1,Male,Student,Bachelors,Italian,None of them,Moderate,0
+420,16,1,Option 1,Popular(10€-15€),Mezzacorona,Sparkling wine,12 %,2 years,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,0
+421,16,1,Option 2,Luxury(50€-100€),Ferrari,White wine,12 %,5 years,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,0
+422,16,1,Option 3,Value(3€-10€),Mezzacorona,Sparkling wine,5.5 %,2 years,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,0
+423,16,1,Option 4,Popular(10€-15€),Cantina Toblino,Red wine,7 %,5 years,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,1
+424,16,2,Option 1,Popular(10€-15€),Mezzacorona,White wine,7 %,2 years,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,0
+425,16,2,Option 2,Popular(10€-15€),Mezzacorona,Rose wine,7 %,2 years,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,1
+426,16,2,Option 3,Value(3€-10€),Mezzacorona,White wine,7 %,2 years,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,0
+427,16,2,Option 4,Luxury(50€-100€),Cantina Toblino,Red wine,18 %,4 years,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,0
+428,16,3,Option 1,Luxury(50€-100€),Ferrari,Sparkling wine,7 %,4 years,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,0
+429,16,3,Option 2,Luxury(50€-100€),Cavit,White wine,5.5 %,3 years,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,0
+430,16,3,Option 3,Premium(15€-30€),Cantina Toblino,Red wine,12 %,1 year ,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,0
+431,16,3,Option 4,Popular(10€-15€),Cantina Toblino,White wine,7 %,3 years,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,1
+432,16,4,Option 1,Popular(10€-15€),Mezzacorona,Rose wine,5.5 %,3 years,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,0
+433,16,4,Option 2,Popular(10€-15€),Cavit,Rose wine,18 %,5 years,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,0
+434,16,4,Option 3,Popular(10€-15€),Ferrari,Sparkling wine,7 %,5 years,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,1
+435,16,4,Option 4,Luxury(50€-100€),Cantina Toblino,Red wine,18 %,1 year ,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,0
+436,16,5,Option 1,Premium(15€-30€),Mezzacorona,White wine,5.5 %,4 years,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,0
+437,16,5,Option 2,Luxury(50€-100€),Ferrari,Sparkling wine,18 %,2 years,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,0
+438,16,5,Option 3,Popular(10€-15€),Cavit,Red wine,12 %,3 years,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,1
+439,16,5,Option 4,Value(3€-10€),Ferrari,Red wine,7 %,4 years,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,0
+440,16,6,Option 1,Luxury(50€-100€),Mezzacorona,Rose wine,12 %,5 years,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,0
+441,16,6,Option 2,Luxury(50€-100€),Ferrari,Rose wine,18 %,1 year ,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,0
+442,16,6,Option 3,Premium(15€-30€),Cantina Toblino,Sparkling wine,5.5 %,1 year ,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,0
+443,16,6,Option 4,Popular(10€-15€),Ferrari,Red wine,7 %,1 year ,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,1
+444,16,7,Option 1,Premium(15€-30€),Cantina Toblino,White wine,5.5 %,1 year ,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,0
+445,16,7,Option 2,Value(3€-10€),Cantina Toblino,White wine,7 %,2 years,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,1
+446,16,7,Option 3,Luxury(50€-100€),Mezzacorona,Rose wine,7 %,3 years,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,0
+447,16,7,Option 4,Popular(10€-15€),Cavit,Rose wine,12 %,3 years,1,Male,Student,School,Italian,"Facbook,Instagram,Twitter",Moderate,0
+448,17,1,Option 1,Value(3€-10€),Ferrari,White wine,5.5 %,4 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+449,17,1,Option 2,Popular(10€-15€),Ferrari,Sparkling wine,12 %,1 year ,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+450,17,1,Option 3,Premium(15€-30€),Cantina Toblino,Rose wine,12 %,3 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+451,17,1,Option 4,Popular(10€-15€),Ferrari,Sparkling wine,12 %,2 years,1,Female,Student,Bachelors,Italian,Instagram,Low,1
+452,17,2,Option 1,Popular(10€-15€),Mezzacorona,White wine,5.5 %,1 year ,1,Female,Student,Bachelors,Italian,Instagram,Low,1
+453,17,2,Option 2,Luxury(50€-100€),Ferrari,Rose wine,7 %,5 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+454,17,2,Option 3,Premium(15€-30€),Cavit,Red wine,18 %,4 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+455,17,2,Option 4,Premium(15€-30€),Cantina Toblino,Rose wine,12 %,2 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+456,17,3,Option 1,Premium(15€-30€),Ferrari,Rose wine,18 %,2 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+457,17,3,Option 2,Luxury(50€-100€),Ferrari,White wine,7 %,3 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+458,17,3,Option 3,Luxury(50€-100€),Cantina Toblino,Red wine,18 %,5 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+459,17,3,Option 4,Popular(10€-15€),Cantina Toblino,Sparkling wine,12 %,3 years,1,Female,Student,Bachelors,Italian,Instagram,Low,1
+460,17,4,Option 1,Luxury(50€-100€),Mezzacorona,Sparkling wine,5.5 %,3 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+461,17,4,Option 2,Popular(10€-15€),Cavit,Rose wine,12 %,4 years,1,Female,Student,Bachelors,Italian,Instagram,Low,1
+462,17,4,Option 3,Luxury(50€-100€),Cavit,Red wine,18 %,1 year ,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+463,17,4,Option 4,Popular(10€-15€),Cavit,Sparkling wine,5.5 %,1 year ,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+464,17,5,Option 1,Premium(15€-30€),Mezzacorona,Red wine,12 %,5 years,1,Female,Student,Bachelors,Italian,Instagram,Low,1
+465,17,5,Option 2,Value(3€-10€),Cavit,Rose wine,7 %,1 year ,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+466,17,5,Option 3,Luxury(50€-100€),Cantina Toblino,White wine,12 %,2 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+467,17,5,Option 4,Luxury(50€-100€),Cavit,Sparkling wine,12 %,5 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+468,17,6,Option 1,Popular(10€-15€),Mezzacorona,White wine,7 %,3 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+469,17,6,Option 2,Luxury(50€-100€),Ferrari,Red wine,7 %,5 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+470,17,6,Option 3,Popular(10€-15€),Mezzacorona,Sparkling wine,18 %,2 years,1,Female,Student,Bachelors,Italian,Instagram,Low,1
+471,17,6,Option 4,Premium(15€-30€),Ferrari,Rose wine,12 %,3 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+472,17,7,Option 1,Premium(15€-30€),Cantina Toblino,White wine,18 %,2 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+473,17,7,Option 2,Popular(10€-15€),Mezzacorona,Rose wine,5.5 %,1 year ,1,Female,Student,Bachelors,Italian,Instagram,Low,1
+474,17,7,Option 3,Premium(15€-30€),Cantina Toblino,Sparkling wine,12 %,3 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+475,17,7,Option 4,Luxury(50€-100€),Ferrari,White wine,7 %,4 years,1,Female,Student,Bachelors,Italian,Instagram,Low,0
+476,18,1,Option 1,Luxury(50€-100€),Mezzacorona,Sparkling wine,5.5 %,2 years,1,Female,Student,Bachelors,Kosvo,Instagram,None,0
+477,18,1,Option 2,Luxury(50€-100€),Ferrari,Sparkling wine,12 %,1 year ,1,Female,Student,Bachelors,Kosvo,Instagram,None,1
+478,18,1,Option 3,Popular(10€-15€),Ferrari,Rose wine,18 %,3 years,1,Female,Student,Bachelors,Kosvo,Instagram,None,0
+479,18,1,Option 4,Popular(10€-15€),Cantina Toblino,Red wine,7 %,5 years,1,Female,Student,Bachelors,Kosvo,Instagram,None,0
+480,18,2,Option 1,Value(3€-10€),Ferrari,Sparkling wine,5.5 %,5 years,1,Female,Student,Bachelors,Kosvo,Instagram,None,1
+481,18,2,Option 2,Popular(10€-15€),Cavit,White wine,12 %,2 years,1,Female,Student,Bachelors,Kosvo,Instagram,None,0
+482,18,2,Option 3,Luxury(50€-100€),Ferrari,Rose wine,5.5 %,5 years,1,Female,Student,Bachelors,Kosvo,Instagram,None,0
+483,18,2,Option 4,Value(3€-10€),Cantina Toblino,White wine,12 %,2 years,1,Female,Student,Bachelors,Kosvo,Instagram,None,0
+484,18,3,Option 1,Value(3€-10€),Cavit,Sparkling wine,7 %,1 year ,1,Female,Student,Bachelors,Kosvo,Instagram,None,0
+485,18,3,Option 2,Value(3€-10€),Mezzacorona,White wine,7 %,5 years,1,Female,Student,Bachelors,Kosvo,Instagram,None,0
+486,18,3,Option 3,Value(3€-10€),Mezzacorona,Sparkling wine,7 %,2 years,1,Female,Student,Bachelors,Kosvo,Instagram,None,0
+487,18,3,Option 4,Value(3€-10€),Ferrari,Rose wine,18 %,4 years,1,Female,Student,Bachelors,Kosvo,Instagram,None,1
+488,18,4,Option 1,Value(3€-10€),Mezzacorona,Red wine,18 %,2 years,1,Female,Student,Bachelors,Kosvo,Instagram,None,0
+489,18,4,Option 2,Value(3€-10€),Cavit,White wine,12 %,3 years,1,Female,Student,Bachelors,Kosvo,Instagram,None,0
+490,18,4,Option 3,Premium(15€-30€),Cantina Toblino,Red wine,5.5 %,3 years,1,Female,Student,Bachelors,Kosvo,Instagram,None,0
+491,18,4,Option 4,Value(3€-10€),Mezzacorona,Rose wine,18 %,5 years,1,Female,Student,Bachelors,Kosvo,Instagram,None,1
+492,18,5,Option 1,Luxury(50€-100€),Cavit,Red wine,12 %,2 years,1,Female,Student,Bachelors,Kosvo,Instagram,None,0
+493,18,5,Option 2,Popular(10€-15€),Cantina Toblino,Red wine,18 %,4 years,1,Female,Student,Bachelors,Kosvo,Instagram,None,0
+494,18,5,Option 3,Premium(15€-30€),Mezzacorona,Red wine,7 %,2 years,1,Female,Student,Bachelors,Kosvo,Instagram,None,1
+495,18,5,Option 4,Premium(15€-30€),Cantina Toblino,Red wine,12 %,3 years,1,Female,Student,Bachelors,Kosvo,Instagram,None,0
+496,18,6,Option 1,Premium(15€-30€),Ferrari,Sparkling wine,7 %,1 year ,1,Female,Student,Bachelors,Kosvo,Instagram,None,1
+497,18,6,Option 2,Luxury(50€-100€),Cantina Toblino,Red wine,12 %,4 years,1,Female,Student,Bachelors,Kosvo,Instagram,None,0
+498,18,6,Option 3,Popular(10€-15€),Cavit,Rose wine,5.5 %,1 year ,1,Female,Student,Bachelors,Kosvo,Instagram,None,0
+499,18,6,Option 4,Value(3€-10€),Cantina Toblino,Sparkling wine,12 %,3 years,1,Female,Student,Bachelors,Kosvo,Instagram,None,0
+500,18,7,Option 1,Luxury(50€-100€),Cantina Toblino,Sparkling wine,18 %,4 years,1,Female,Student,Bachelors,Kosvo,Instagram,None,1
+501,18,7,Option 2,Value(3€-10€),Mezzacorona,White wine,12 %,2 years,1,Female,Student,Bachelors,Kosvo,Instagram,None,0
+502,18,7,Option 3,Luxury(50€-100€),Ferrari,Red wine,5.5 %,1 year ,1,Female,Student,Bachelors,Kosvo,Instagram,None,0
+503,18,7,Option 4,Popular(10€-15€),Cantina Toblino,Red wine,5.5 %,1 year ,1,Female,Student,Bachelors,Kosvo,Instagram,None,0
+504,19,1,Option 1,Premium(15€-30€),Mezzacorona,Sparkling wine,18 %,3 years,1,Female,Student,Bachelors,Ukrainian,Instagram,High,0
+505,19,1,Option 2,Value(3€-10€),Cavit,Sparkling wine,7 %,4 years,1,Female,Student,Bachelors,Ukrainian,Instagram,High,0
+506,19,1,Option 3,Premium(15€-30€),Cavit,Red wine,5.5 %,1 year ,1,Female,Student,Bachelors,Ukrainian,Instagram,High,0
+507,19,1,Option 4,Value(3€-10€),Cavit,Sparkling wine,12 %,4 years,1,Female,Student,Bachelors,Ukrainian,Instagram,High,1
+508,19,2,Option 1,Value(3€-10€),Cavit,Sparkling wine,7 %,1 year ,1,Female,Student,Bachelors,Ukrainian,Instagram,High,0
+509,19,2,Option 2,Popular(10€-15€),Ferrari,Sparkling wine,7 %,1 year ,1,Female,Student,Bachelors,Ukrainian,Instagram,High,0
+510,19,2,Option 3,Popular(10€-15€),Ferrari,White wine,5.5 %,2 years,1,Female,Student,Bachelors,Ukrainian,Instagram,High,1
+511,19,2,Option 4,Premium(15€-30€),Cavit,White wine,12 %,3 years,1,Female,Student,Bachelors,Ukrainian,Instagram,High,0
+512,19,3,Option 1,Popular(10€-15€),Cavit,Red wine,18 %,4 years,1,Female,Student,Bachelors,Ukrainian,Instagram,High,0
+513,19,3,Option 2,Popular(10€-15€),Cantina Toblino,Red wine,18 %,2 years,1,Female,Student,Bachelors,Ukrainian,Instagram,High,1
+514,19,3,Option 3,Luxury(50€-100€),Cavit,Red wine,12 %,2 years,1,Female,Student,Bachelors,Ukrainian,Instagram,High,0
+515,19,3,Option 4,Luxury(50€-100€),Cantina Toblino,White wine,12 %,1 year ,1,Female,Student,Bachelors,Ukrainian,Instagram,High,0
+516,19,4,Option 1,Popular(10€-15€),Cavit,Red wine,5.5 %,4 years,1,Female,Student,Bachelors,Ukrainian,Instagram,High,0
+517,19,4,Option 2,Value(3€-10€),Mezzacorona,White wine,5.5 %,1 year ,1,Female,Student,Bachelors,Ukrainian,Instagram,High,1
+518,19,4,Option 3,Popular(10€-15€),Cantina Toblino,Sparkling wine,12 %,2 years,1,Female,Student,Bachelors,Ukrainian,Instagram,High,0
+519,19,4,Option 4,Popular(10€-15€),Mezzacorona,Rose wine,12 %,1 year ,1,Female,Student,Bachelors,Ukrainian,Instagram,High,0
+520,19,5,Option 1,Premium(15€-30€),Ferrari,Rose wine,18 %,1 year ,1,Female,Student,Bachelors,Ukrainian,Instagram,High,0
+521,19,5,Option 2,Value(3€-10€),Mezzacorona,White wine,12 %,1 year ,1,Female,Student,Bachelors,Ukrainian,Instagram,High,0
+522,19,5,Option 3,Value(3€-10€),Cantina Toblino,Red wine,5.5 %,1 year ,1,Female,Student,Bachelors,Ukrainian,Instagram,High,0
+523,19,5,Option 4,Premium(15€-30€),Ferrari,White wine,12 %,3 years,1,Female,Student,Bachelors,Ukrainian,Instagram,High,1
+524,19,6,Option 1,Popular(10€-15€),Ferrari,Rose wine,12 %,2 years,1,Female,Student,Bachelors,Ukrainian,Instagram,High,0
+525,19,6,Option 2,Luxury(50€-100€),Mezzacorona,Red wine,5.5 %,2 years,1,Female,Student,Bachelors,Ukrainian,Instagram,High,0
+526,19,6,Option 3,Value(3€-10€),Cavit,Red wine,5.5 %,5 years,1,Female,Student,Bachelors,Ukrainian,Instagram,High,0
+527,19,6,Option 4,Popular(10€-15€),Ferrari,White wine,7 %,3 years,1,Female,Student,Bachelors,Ukrainian,Instagram,High,1
+528,19,7,Option 1,Value(3€-10€),Cavit,Sparkling wine,7 %,3 years,1,Female,Student,Bachelors,Ukrainian,Instagram,High,0
+529,19,7,Option 2,Value(3€-10€),Cavit,White wine,5.5 %,5 years,1,Female,Student,Bachelors,Ukrainian,Instagram,High,0
+530,19,7,Option 3,Premium(15€-30€),Ferrari,Sparkling wine,18 %,1 year ,1,Female,Student,Bachelors,Ukrainian,Instagram,High,0
+531,19,7,Option 4,Popular(10€-15€),Cavit,Rose wine,5.5 %,3 years,1,Female,Student,Bachelors,Ukrainian,Instagram,High,1
+532,20,1,Option 1,Popular(10€-15€),Mezzacorona,Rose wine,7 %,4 years,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,0
+533,20,1,Option 2,Popular(10€-15€),Ferrari,Rose wine,5.5 %,5 years,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,1
+534,20,1,Option 3,Luxury(50€-100€),Cantina Toblino,Red wine,5.5 %,3 years,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,0
+535,20,1,Option 4,Premium(15€-30€),Ferrari,Sparkling wine,7 %,2 years,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,0
+536,20,2,Option 1,Premium(15€-30€),Ferrari,Red wine,7 %,1 year ,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,1
+537,20,2,Option 2,Popular(10€-15€),Mezzacorona,Sparkling wine,5.5 %,2 years,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,0
+538,20,2,Option 3,Luxury(50€-100€),Ferrari,Red wine,5.5 %,1 year ,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,0
+539,20,2,Option 4,Popular(10€-15€),Mezzacorona,White wine,12 %,1 year ,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,0
+540,20,3,Option 1,Value(3€-10€),Mezzacorona,Sparkling wine,18 %,2 years,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,0
+541,20,3,Option 2,Value(3€-10€),Mezzacorona,Sparkling wine,7 %,5 years,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,0
+542,20,3,Option 3,Popular(10€-15€),Cavit,White wine,7 %,5 years,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,1
+543,20,3,Option 4,Value(3€-10€),Mezzacorona,White wine,18 %,1 year ,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,0
+544,20,4,Option 1,Luxury(50€-100€),Ferrari,Rose wine,5.5 %,5 years,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,0
+545,20,4,Option 2,Premium(15€-30€),Cantina Toblino,Red wine,12 %,1 year ,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,1
+546,20,4,Option 3,Value(3€-10€),Mezzacorona,White wine,7 %,5 years,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,0
+547,20,4,Option 4,Popular(10€-15€),Cantina Toblino,Rose wine,12 %,1 year ,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,0
+548,20,5,Option 1,Premium(15€-30€),Mezzacorona,White wine,5.5 %,2 years,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,0
+549,20,5,Option 2,Value(3€-10€),Cavit,White wine,7 %,4 years,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,0
+550,20,5,Option 3,Popular(10€-15€),Cantina Toblino,Red wine,7 %,5 years,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,1
+551,20,5,Option 4,Premium(15€-30€),Cantina Toblino,Sparkling wine,12 %,3 years,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,0
+552,20,6,Option 1,Value(3€-10€),Mezzacorona,Sparkling wine,7 %,2 years,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,0
+553,20,6,Option 2,Luxury(50€-100€),Ferrari,Red wine,7 %,2 years,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,1
+554,20,6,Option 3,Luxury(50€-100€),Cantina Toblino,Rose wine,12 %,3 years,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,0
+555,20,6,Option 4,Value(3€-10€),Mezzacorona,Red wine,12 %,5 years,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,0
+556,20,7,Option 1,Luxury(50€-100€),Cantina Toblino,Rose wine,12 %,5 years,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,0
+557,20,7,Option 2,Luxury(50€-100€),Mezzacorona,White wine,12 %,1 year ,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,0
+558,20,7,Option 3,Popular(10€-15€),Cavit,Red wine,5.5 %,3 years,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,1
+559,20,7,Option 4,Premium(15€-30€),Ferrari,Red wine,18 %,4 years,1,Male,Private Employed,Masters,Italian,"Facebook,Instagram",Low,0
+560,21,1,Option 1,Value(3€-10€),Ferrari,Red wine,5.5 %,1 year ,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,0
+561,21,1,Option 2,Popular(10€-15€),Ferrari,Rose wine,5.5 %,4 years,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,0
+562,21,1,Option 3,Popular(10€-15€),Cavit,Sparkling wine,7 %,2 years,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,0
+563,21,1,Option 4,Premium(15€-30€),Cantina Toblino,Rose wine,7 %,1 year ,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,1
+564,21,2,Option 1,Luxury(50€-100€),Cantina Toblino,Red wine,7 %,3 years,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,0
+565,21,2,Option 2,Luxury(50€-100€),Ferrari,Sparkling wine,7 %,1 year ,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,0
+566,21,2,Option 3,Luxury(50€-100€),Cavit,Sparkling wine,7 %,5 years,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,0
+567,21,2,Option 4,Premium(15€-30€),Cavit,Rose wine,7 %,1 year ,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,1
+568,21,3,Option 1,Value(3€-10€),Cantina Toblino,Sparkling wine,12 %,3 years,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,0
+569,21,3,Option 2,Premium(15€-30€),Mezzacorona,White wine,5.5 %,3 years,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,1
+570,21,3,Option 3,Popular(10€-15€),Ferrari,Sparkling wine,12 %,1 year ,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,0
+571,21,3,Option 4,Value(3€-10€),Cantina Toblino,Rose wine,5.5 %,3 years,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,0
+572,21,4,Option 1,Value(3€-10€),Mezzacorona,Rose wine,18 %,4 years,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,0
+573,21,4,Option 2,Value(3€-10€),Mezzacorona,Red wine,7 %,1 year ,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,0
+574,21,4,Option 3,Popular(10€-15€),Cavit,Red wine,7 %,3 years,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,0
+575,21,4,Option 4,Popular(10€-15€),Ferrari,Sparkling wine,12 %,3 years,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,1
+576,21,5,Option 1,Luxury(50€-100€),Cantina Toblino,Sparkling wine,12 %,2 years,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,0
+577,21,5,Option 2,Premium(15€-30€),Cavit,Red wine,7 %,1 year ,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,1
+578,21,5,Option 3,Premium(15€-30€),Cantina Toblino,White wine,5.5 %,2 years,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,0
+579,21,5,Option 4,Premium(15€-30€),Ferrari,White wine,7 %,5 years,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,0
+580,21,6,Option 1,Luxury(50€-100€),Mezzacorona,White wine,18 %,3 years,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,0
+581,21,6,Option 2,Value(3€-10€),Ferrari,Red wine,5.5 %,4 years,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,0
+582,21,6,Option 3,Premium(15€-30€),Cavit,White wine,5.5 %,1 year ,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,1
+583,21,6,Option 4,Value(3€-10€),Mezzacorona,Red wine,7 %,3 years,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,0
+584,21,7,Option 1,Value(3€-10€),Mezzacorona,Sparkling wine,5.5 %,2 years,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,0
+585,21,7,Option 2,Premium(15€-30€),Cantina Toblino,Red wine,18 %,4 years,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,0
+586,21,7,Option 3,Premium(15€-30€),Cantina Toblino,White wine,5.5 %,1 year ,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,0
+587,21,7,Option 4,Popular(10€-15€),Ferrari,White wine,7 %,4 years,4,Male,Govt Employee,Bachelors,Italian,Facebook,Low,1
+588,22,1,Option 1,Value(3€-10€),Cantina Toblino,Rose wine,12 %,5 years,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,0
+589,22,1,Option 2,Luxury(50€-100€),Cavit,White wine,5.5 %,3 years,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,0
+590,22,1,Option 3,Premium(15€-30€),Mezzacorona,Red wine,5.5 %,5 years,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,0
+591,22,1,Option 4,Premium(15€-30€),Cavit,Sparkling wine,7 %,1 year ,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,1
+592,22,2,Option 1,Popular(10€-15€),Cantina Toblino,White wine,5.5 %,1 year ,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,0
+593,22,2,Option 2,Popular(10€-15€),Cavit,White wine,7 %,5 years,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,1
+594,22,2,Option 3,Popular(10€-15€),Cavit,Sparkling wine,12 %,4 years,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,0
+595,22,2,Option 4,Luxury(50€-100€),Ferrari,Rose wine,18 %,2 years,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,0
+596,22,3,Option 1,Luxury(50€-100€),Cantina Toblino,Rose wine,18 %,1 year ,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,0
+597,22,3,Option 2,Popular(10€-15€),Cavit,Sparkling wine,18 %,1 year ,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,0
+598,22,3,Option 3,Luxury(50€-100€),Mezzacorona,Red wine,12 %,5 years,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,0
+599,22,3,Option 4,Value(3€-10€),Cantina Toblino,Rose wine,18 %,5 years,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,1
+600,22,4,Option 1,Popular(10€-15€),Ferrari,White wine,7 %,3 years,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,0
+601,22,4,Option 2,Popular(10€-15€),Cantina Toblino,Sparkling wine,7 %,4 years,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,1
+602,22,4,Option 3,Luxury(50€-100€),Cavit,Sparkling wine,12 %,1 year ,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,0
+603,22,4,Option 4,Premium(15€-30€),Ferrari,Red wine,12 %,4 years,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,0
+604,22,5,Option 1,Luxury(50€-100€),Ferrari,Red wine,5.5 %,2 years,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,0
+605,22,5,Option 2,Popular(10€-15€),Cavit,White wine,12 %,5 years,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,0
+606,22,5,Option 3,Premium(15€-30€),Ferrari,White wine,12 %,1 year ,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,0
+607,22,5,Option 4,Popular(10€-15€),Cantina Toblino,Sparkling wine,5.5 %,5 years,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,1
+608,22,6,Option 1,Premium(15€-30€),Mezzacorona,Sparkling wine,5.5 %,1 year ,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,1
+609,22,6,Option 2,Popular(10€-15€),Mezzacorona,Red wine,5.5 %,2 years,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,0
+610,22,6,Option 3,Premium(15€-30€),Ferrari,Sparkling wine,12 %,4 years,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,0
+611,22,6,Option 4,Value(3€-10€),Cantina Toblino,Red wine,12 %,5 years,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,0
+612,22,7,Option 1,Popular(10€-15€),Mezzacorona,Red wine,7 %,5 years,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,0
+613,22,7,Option 2,Popular(10€-15€),Cavit,White wine,18 %,4 years,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,0
+614,22,7,Option 3,Premium(15€-30€),Mezzacorona,Rose wine,18 %,5 years,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,0
+615,22,7,Option 4,Value(3€-10€),Ferrari,Sparkling wine,7 %,1 year ,2,Male,Student,Highrt Education,Omen,"Instagram,Twitter",High,1
+616,23,1,Option 1,Popular(10€-15€),Cantina Toblino,Rose wine,18 %,3 years,1,Female,Student,Masters,Italian,Instagram,Moderate,0
+617,23,1,Option 2,Popular(10€-15€),Cantina Toblino,Red wine,12 %,4 years,1,Female,Student,Masters,Italian,Instagram,Moderate,0
+618,23,1,Option 3,Popular(10€-15€),Ferrari,Red wine,12 %,4 years,1,Female,Student,Masters,Italian,Instagram,Moderate,1
+619,23,1,Option 4,Luxury(50€-100€),Mezzacorona,Rose wine,12 %,2 years,1,Female,Student,Masters,Italian,Instagram,Moderate,0
+620,23,2,Option 1,Premium(15€-30€),Cavit,White wine,18 %,5 years,1,Female,Student,Masters,Italian,Instagram,Moderate,0
+621,23,2,Option 2,Popular(10€-15€),Ferrari,Sparkling wine,7 %,5 years,1,Female,Student,Masters,Italian,Instagram,Moderate,1
+622,23,2,Option 3,Luxury(50€-100€),Cantina Toblino,White wine,5.5 %,3 years,1,Female,Student,Masters,Italian,Instagram,Moderate,0
+623,23,2,Option 4,Luxury(50€-100€),Mezzacorona,White wine,12 %,4 years,1,Female,Student,Masters,Italian,Instagram,Moderate,0
+624,23,3,Option 1,Value(3€-10€),Cantina Toblino,Rose wine,5.5 %,3 years,1,Female,Student,Masters,Italian,Instagram,Moderate,0
+625,23,3,Option 2,Luxury(50€-100€),Cantina Toblino,Sparkling wine,5.5 %,3 years,1,Female,Student,Masters,Italian,Instagram,Moderate,0
+626,23,3,Option 3,Premium(15€-30€),Ferrari,Rose wine,7 %,4 years,1,Female,Student,Masters,Italian,Instagram,Moderate,1
+627,23,3,Option 4,Value(3€-10€),Cantina Toblino,Red wine,12 %,1 year ,1,Female,Student,Masters,Italian,Instagram,Moderate,0
+628,23,4,Option 1,Luxury(50€-100€),Ferrari,Rose wine,12 %,3 years,1,Female,Student,Masters,Italian,Instagram,Moderate,0
+629,23,4,Option 2,Premium(15€-30€),Cantina Toblino,White wine,12 %,4 years,1,Female,Student,Masters,Italian,Instagram,Moderate,0
+630,23,4,Option 3,Popular(10€-15€),Mezzacorona,White wine,18 %,3 years,1,Female,Student,Masters,Italian,Instagram,Moderate,1
+631,23,4,Option 4,Luxury(50€-100€),Cavit,White wine,5.5 %,4 years,1,Female,Student,Masters,Italian,Instagram,Moderate,0
+632,23,5,Option 1,Premium(15€-30€),Cavit,Red wine,7 %,1 year ,1,Female,Student,Masters,Italian,Instagram,Moderate,0
+633,23,5,Option 2,Luxury(50€-100€),Ferrari,Rose wine,12 %,2 years,1,Female,Student,Masters,Italian,Instagram,Moderate,0
+634,23,5,Option 3,Popular(10€-15€),Cantina Toblino,Sparkling wine,5.5 %,3 years,1,Female,Student,Masters,Italian,Instagram,Moderate,1
+635,23,5,Option 4,Popular(10€-15€),Cantina Toblino,White wine,7 %,5 years,1,Female,Student,Masters,Italian,Instagram,Moderate,0
+636,23,6,Option 1,Popular(10€-15€),Ferrari,Rose wine,18 %,5 years,1,Female,Student,Masters,Italian,Instagram,Moderate,1
+637,23,6,Option 2,Premium(15€-30€),Ferrari,White wine,5.5 %,4 years,1,Female,Student,Masters,Italian,Instagram,Moderate,0
+638,23,6,Option 3,Premium(15€-30€),Mezzacorona,White wine,5.5 %,5 years,1,Female,Student,Masters,Italian,Instagram,Moderate,0
+639,23,6,Option 4,Premium(15€-30€),Cantina Toblino,White wine,5.5 %,4 years,1,Female,Student,Masters,Italian,Instagram,Moderate,0
+640,23,7,Option 1,Popular(10€-15€),Cantina Toblino,Sparkling wine,18 %,5 years,1,Female,Student,Masters,Italian,Instagram,Moderate,1
+641,23,7,Option 2,Popular(10€-15€),Cantina Toblino,Sparkling wine,12 %,3 years,1,Female,Student,Masters,Italian,Instagram,Moderate,0
+642,23,7,Option 3,Luxury(50€-100€),Mezzacorona,Rose wine,7 %,4 years,1,Female,Student,Masters,Italian,Instagram,Moderate,0
+643,23,7,Option 4,Premium(15€-30€),Cavit,Rose wine,5.5 %,2 years,1,Female,Student,Masters,Italian,Instagram,Moderate,0
+644,24,1,Option 1,Premium(15€-30€),Cantina Toblino,Rose wine,5.5 %,4 years,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,0
+645,24,1,Option 2,Premium(15€-30€),Cavit,Sparkling wine,12 %,1 year ,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,0
+646,24,1,Option 3,Popular(10€-15€),Ferrari,Rose wine,7 %,2 years,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,0
+647,24,1,Option 4,Luxury(50€-100€),Ferrari,Rose wine,7 %,2 years,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,1
+648,24,2,Option 1,Luxury(50€-100€),Cavit,White wine,18 %,5 years,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,1
+649,24,2,Option 2,Premium(15€-30€),Ferrari,Sparkling wine,18 %,2 years,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,0
+650,24,2,Option 3,Luxury(50€-100€),Cavit,Rose wine,5.5 %,3 years,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,0
+651,24,2,Option 4,Popular(10€-15€),Mezzacorona,Red wine,5.5 %,5 years,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,0
+652,24,3,Option 1,Premium(15€-30€),Cavit,Sparkling wine,7 %,3 years,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,0
+653,24,3,Option 2,Luxury(50€-100€),Cantina Toblino,Rose wine,12 %,4 years,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,1
+654,24,3,Option 3,Popular(10€-15€),Ferrari,White wine,5.5 %,1 year ,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,0
+655,24,3,Option 4,Premium(15€-30€),Cantina Toblino,White wine,12 %,3 years,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,0
+656,24,4,Option 1,Popular(10€-15€),Ferrari,Sparkling wine,7 %,5 years,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,0
+657,24,4,Option 2,Premium(15€-30€),Cavit,Rose wine,18 %,1 year ,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,0
+658,24,4,Option 3,Luxury(50€-100€),Cantina Toblino,Red wine,18 %,3 years,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,1
+659,24,4,Option 4,Premium(15€-30€),Cavit,Sparkling wine,18 %,5 years,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,0
+660,24,5,Option 1,Popular(10€-15€),Cavit,Sparkling wine,18 %,4 years,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,0
+661,24,5,Option 2,Premium(15€-30€),Mezzacorona,Red wine,12 %,2 years,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,0
+662,24,5,Option 3,Popular(10€-15€),Cantina Toblino,Red wine,5.5 %,3 years,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,0
+663,24,5,Option 4,Luxury(50€-100€),Ferrari,Rose wine,12 %,5 years,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,1
+664,24,6,Option 1,Premium(15€-30€),Cantina Toblino,Red wine,7 %,2 years,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,0
+665,24,6,Option 2,Luxury(50€-100€),Mezzacorona,Rose wine,5.5 %,2 years,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,1
+666,24,6,Option 3,Luxury(50€-100€),Mezzacorona,White wine,18 %,4 years,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,0
+667,24,6,Option 4,Premium(15€-30€),Cantina Toblino,Sparkling wine,12 %,5 years,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,0
+668,24,7,Option 1,Popular(10€-15€),Cavit,Red wine,18 %,2 years,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,0
+669,24,7,Option 2,Luxury(50€-100€),Mezzacorona,Red wine,12 %,3 years,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,1
+670,24,7,Option 3,Luxury(50€-100€),Mezzacorona,Red wine,7 %,3 years,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,0
+671,24,7,Option 4,Premium(15€-30€),Mezzacorona,White wine,12 %,4 years,2,Male,Govt Employee,Highrt Education,Indian,"Facebook,Instagram,Twitter,Linkden",None,0
+672,25,1,Option 1,Premium(15€-30€),Cavit,White wine,5.5 %,5 years,1,Female,Student,Masters,China,Linkedin,High,0
+673,25,1,Option 2,Value(3€-10€),Mezzacorona,Sparkling wine,12 %,4 years,1,Female,Student,Masters,China,Linkedin,High,0
+674,25,1,Option 3,Premium(15€-30€),Cavit,White wine,12 %,1 year ,1,Female,Student,Masters,China,Linkedin,High,1
+675,25,1,Option 4,Value(3€-10€),Mezzacorona,Red wine,7 %,5 years,1,Female,Student,Masters,China,Linkedin,High,0
+676,25,2,Option 1,Popular(10€-15€),Cantina Toblino,Red wine,12 %,3 years,1,Female,Student,Masters,China,Linkedin,High,1
+677,25,2,Option 2,Value(3€-10€),Cavit,Red wine,5.5 %,4 years,1,Female,Student,Masters,China,Linkedin,High,0
+678,25,2,Option 3,Premium(15€-30€),Mezzacorona,White wine,12 %,5 years,1,Female,Student,Masters,China,Linkedin,High,0
+679,25,2,Option 4,Popular(10€-15€),Mezzacorona,Sparkling wine,7 %,2 years,1,Female,Student,Masters,China,Linkedin,High,0
+680,25,3,Option 1,Value(3€-10€),Mezzacorona,White wine,7 %,3 years,1,Female,Student,Masters,China,Linkedin,High,1
+681,25,3,Option 2,Luxury(50€-100€),Mezzacorona,White wine,5.5 %,5 years,1,Female,Student,Masters,China,Linkedin,High,0
+682,25,3,Option 3,Luxury(50€-100€),Mezzacorona,Red wine,7 %,1 year ,1,Female,Student,Masters,China,Linkedin,High,0
+683,25,3,Option 4,Value(3€-10€),Mezzacorona,Rose wine,5.5 %,5 years,1,Female,Student,Masters,China,Linkedin,High,0
+684,25,4,Option 1,Premium(15€-30€),Cavit,White wine,5.5 %,3 years,1,Female,Student,Masters,China,Linkedin,High,0
+685,25,4,Option 2,Popular(10€-15€),Ferrari,Sparkling wine,12 %,4 years,1,Female,Student,Masters,China,Linkedin,High,1
+686,25,4,Option 3,Value(3€-10€),Cantina Toblino,Sparkling wine,5.5 %,1 year ,1,Female,Student,Masters,China,Linkedin,High,0
+687,25,4,Option 4,Popular(10€-15€),Ferrari,Rose wine,5.5 %,5 years,1,Female,Student,Masters,China,Linkedin,High,0
+688,25,5,Option 1,Value(3€-10€),Ferrari,White wine,12 %,2 years,1,Female,Student,Masters,China,Linkedin,High,1
+689,25,5,Option 2,Value(3€-10€),Ferrari,Sparkling wine,12 %,3 years,1,Female,Student,Masters,China,Linkedin,High,0
+690,25,5,Option 3,Luxury(50€-100€),Cavit,Sparkling wine,18 %,5 years,1,Female,Student,Masters,China,Linkedin,High,0
+691,25,5,Option 4,Premium(15€-30€),Cavit,White wine,18 %,3 years,1,Female,Student,Masters,China,Linkedin,High,0
+692,25,6,Option 1,Value(3€-10€),Cavit,White wine,5.5 %,2 years,1,Female,Student,Masters,China,Linkedin,High,0
+693,25,6,Option 2,Value(3€-10€),Ferrari,Red wine,7 %,3 years,1,Female,Student,Masters,China,Linkedin,High,1
+694,25,6,Option 3,Luxury(50€-100€),Cavit,White wine,12 %,3 years,1,Female,Student,Masters,China,Linkedin,High,0
+695,25,6,Option 4,Premium(15€-30€),Cavit,Sparkling wine,5.5 %,2 years,1,Female,Student,Masters,China,Linkedin,High,0
+696,25,7,Option 1,Popular(10€-15€),Ferrari,White wine,12 %,2 years,1,Female,Student,Masters,China,Linkedin,High,0
+697,25,7,Option 2,Luxury(50€-100€),Cantina Toblino,White wine,7 %,5 years,1,Female,Student,Masters,China,Linkedin,High,0
+698,25,7,Option 3,Luxury(50€-100€),Ferrari,Sparkling wine,12 %,5 years,1,Female,Student,Masters,China,Linkedin,High,0
+699,25,7,Option 4,Value(3€-10€),Mezzacorona,White wine,18 %,2 years,1,Female,Student,Masters,China,Linkedin,High,1
+700,26,1,Option 1,Premium(15€-30€),Cantina Toblino,Sparkling wine,7 %,5 years,1,Male,Student,Bachelors,Italian,Instagram,Moderate,1
+701,26,1,Option 2,Premium(15€-30€),Ferrari,White wine,7 %,5 years,1,Male,Student,Bachelors,Italian,Instagram,Moderate,0
+702,26,1,Option 3,Luxury(50€-100€),Ferrari,Sparkling wine,12 %,5 years,1,Male,Student,Bachelors,Italian,Instagram,Moderate,0
+703,26,1,Option 4,Luxury(50€-100€),Ferrari,Red wine,7 %,2 years,1,Male,Student,Bachelors,Italian,Instagram,Moderate,0
+704,26,2,Option 1,Value(3€-10€),Ferrari,Rose wine,5.5 %,5 years,1,Male,Student,Bachelors,Italian,Instagram,Moderate,1
+705,26,2,Option 2,Luxury(50€-100€),Mezzacorona,Red wine,7 %,3 years,1,Male,Student,Bachelors,Italian,Instagram,Moderate,0
+706,26,2,Option 3,Popular(10€-15€),Ferrari,Red wine,7 %,3 years,1,Male,Student,Bachelors,Italian,Instagram,Moderate,0
+707,26,2,Option 4,Luxury(50€-100€),Mezzacorona,Red wine,18 %,3 years,1,Male,Student,Bachelors,Italian,Instagram,Moderate,0
+708,26,3,Option 1,Luxury(50€-100€),Ferrari,Rose wine,18 %,5 years,1,Male,Student,Bachelors,Italian,Instagram,Moderate,0
+709,26,3,Option 2,Value(3€-10€),Cantina Toblino,White wine,7 %,3 years,1,Male,Student,Bachelors,Italian,Instagram,Moderate,1
+710,26,3,Option 3,Popular(10€-15€),Cantina Toblino,Sparkling wine,18 %,1 year ,1,Male,Student,Bachelors,Italian,Instagram,Moderate,0
+711,26,3,Option 4,Popular(10€-15€),Cantina Toblino,Red wine,18 %,5 years,1,Male,Student,Bachelors,Italian,Instagram,Moderate,0
+712,26,4,Option 1,Popular(10€-15€),Cavit,Red wine,5.5 %,2 years,1,Male,Student,Bachelors,Italian,Instagram,Moderate,1
+713,26,4,Option 2,Value(3€-10€),Cantina Toblino,White wine,12 %,3 years,1,Male,Student,Bachelors,Italian,Instagram,Moderate,0
+714,26,4,Option 3,Popular(10€-15€),Mezzacorona,Rose wine,18 %,5 years,1,Male,Student,Bachelors,Italian,Instagram,Moderate,0
+715,26,4,Option 4,Premium(15€-30€),Ferrari,White wine,5.5 %,3 years,1,Male,Student,Bachelors,Italian,Instagram,Moderate,0
+716,26,5,Option 1,Value(3€-10€),Mezzacorona,Sparkling wine,7 %,5 years,1,Male,Student,Bachelors,Italian,Instagram,Moderate,1
+717,26,5,Option 2,Popular(10€-15€),Cantina Toblino,White wine,5.5 %,2 years,1,Male,Student,Bachelors,Italian,Instagram,Moderate,0
+718,26,5,Option 3,Luxury(50€-100€),Cantina Toblino,White wine,7 %,2 years,1,Male,Student,Bachelors,Italian,Instagram,Moderate,0
+719,26,5,Option 4,Luxury(50€-100€),Mezzacorona,White wine,7 %,5 years,1,Male,Student,Bachelors,Italian,Instagram,Moderate,0
+720,26,6,Option 1,Value(3€-10€),Ferrari,Sparkling wine,18 %,3 years,1,Male,Student,Bachelors,Italian,Instagram,Moderate,1
+721,26,6,Option 2,Popular(10€-15€),Ferrari,Sparkling wine,12 %,3 years,1,Male,Student,Bachelors,Italian,Instagram,Moderate,0
+722,26,6,Option 3,Value(3€-10€),Cavit,Sparkling wine,5.5 %,2 years,1,Male,Student,Bachelors,Italian,Instagram,Moderate,0
+723,26,6,Option 4,Popular(10€-15€),Cantina Toblino,Sparkling wine,12 %,3 years,1,Male,Student,Bachelors,Italian,Instagram,Moderate,0
+724,26,7,Option 1,Premium(15€-30€),Cantina Toblino,White wine,12 %,4 years,1,Male,Student,Bachelors,Italian,Instagram,Moderate,0
+725,26,7,Option 2,Popular(10€-15€),Cavit,Red wine,18 %,5 years,1,Male,Student,Bachelors,Italian,Instagram,Moderate,1
+726,26,7,Option 3,Luxury(50€-100€),Cavit,Sparkling wine,5.5 %,5 years,1,Male,Student,Bachelors,Italian,Instagram,Moderate,0
+727,26,7,Option 4,Premium(15€-30€),Cantina Toblino,Red wine,7 %,3 years,1,Male,Student,Bachelors,Italian,Instagram,Moderate,0
+728,27,1,Option 1,Premium(15€-30€),Cavit,Red wine,5.5 %,5 years,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,0
+729,27,1,Option 2,Value(3€-10€),Mezzacorona,White wine,5.5 %,3 years,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,1
+730,27,1,Option 3,Premium(15€-30€),Ferrari,Red wine,7 %,5 years,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,0
+731,27,1,Option 4,Premium(15€-30€),Mezzacorona,White wine,7 %,4 years,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,0
+732,27,2,Option 1,Luxury(50€-100€),Cantina Toblino,Sparkling wine,7 %,5 years,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,0
+733,27,2,Option 2,Popular(10€-15€),Cantina Toblino,Sparkling wine,18 %,5 years,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,0
+734,27,2,Option 3,Popular(10€-15€),Mezzacorona,Red wine,7 %,2 years,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,0
+735,27,2,Option 4,Popular(10€-15€),Ferrari,Rose wine,18 %,1 year ,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,1
+736,27,3,Option 1,Popular(10€-15€),Ferrari,Red wine,12 %,2 years,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,1
+737,27,3,Option 2,Popular(10€-15€),Cantina Toblino,Rose wine,5.5 %,2 years,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,0
+738,27,3,Option 3,Luxury(50€-100€),Ferrari,White wine,12 %,3 years,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,0
+739,27,3,Option 4,Premium(15€-30€),Cantina Toblino,White wine,12 %,3 years,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,0
+740,27,4,Option 1,Popular(10€-15€),Ferrari,Red wine,18 %,5 years,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,0
+741,27,4,Option 2,Popular(10€-15€),Ferrari,Sparkling wine,18 %,4 years,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,1
+742,27,4,Option 3,Popular(10€-15€),Mezzacorona,Sparkling wine,12 %,3 years,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,0
+743,27,4,Option 4,Luxury(50€-100€),Cavit,White wine,18 %,5 years,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,0
+744,27,5,Option 1,Premium(15€-30€),Mezzacorona,White wine,18 %,2 years,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,0
+745,27,5,Option 2,Popular(10€-15€),Ferrari,Red wine,12 %,1 year ,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,0
+746,27,5,Option 3,Luxury(50€-100€),Cavit,Sparkling wine,5.5 %,5 years,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,0
+747,27,5,Option 4,Luxury(50€-100€),Cantina Toblino,Sparkling wine,5.5 %,4 years,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,1
+748,27,6,Option 1,Popular(10€-15€),Mezzacorona,Sparkling wine,7 %,3 years,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,0
+749,27,6,Option 2,Value(3€-10€),Cavit,Sparkling wine,18 %,5 years,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,1
+750,27,6,Option 3,Luxury(50€-100€),Cantina Toblino,Sparkling wine,7 %,4 years,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,0
+751,27,6,Option 4,Popular(10€-15€),Cavit,Sparkling wine,12 %,4 years,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,0
+752,27,7,Option 1,Popular(10€-15€),Mezzacorona,White wine,5.5 %,1 year ,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,0
+753,27,7,Option 2,Popular(10€-15€),Ferrari,Rose wine,7 %,3 years,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,0
+754,27,7,Option 3,Luxury(50€-100€),Cantina Toblino,Red wine,12 %,2 years,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,0
+755,27,7,Option 4,Popular(10€-15€),Ferrari,White wine,7 %,3 years,1,Male,Student,Masters,Italian,"Facebook,Instagram,Linkdin",High,1
+756,28,1,Option 1,Value(3€-10€),Mezzacorona,Red wine,5.5 %,5 years,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,0
+757,28,1,Option 2,Value(3€-10€),Mezzacorona,Rose wine,5.5 %,3 years,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,0
+758,28,1,Option 3,Luxury(50€-100€),Ferrari,Sparkling wine,18 %,1 year ,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,1
+759,28,1,Option 4,Luxury(50€-100€),Cavit,Rose wine,18 %,4 years,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,0
+760,28,2,Option 1,Premium(15€-30€),Cavit,Sparkling wine,12 %,2 years,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,0
+761,28,2,Option 2,Luxury(50€-100€),Cavit,White wine,18 %,4 years,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,1
+762,28,2,Option 3,Premium(15€-30€),Cantina Toblino,Red wine,7 %,3 years,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,0
+763,28,2,Option 4,Value(3€-10€),Cantina Toblino,Sparkling wine,18 %,1 year ,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,0
+764,28,3,Option 1,Premium(15€-30€),Ferrari,Sparkling wine,7 %,5 years,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,0
+765,28,3,Option 2,Luxury(50€-100€),Cantina Toblino,Sparkling wine,5.5 %,5 years,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,0
+766,28,3,Option 3,Value(3€-10€),Mezzacorona,Sparkling wine,18 %,2 years,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,1
+767,28,3,Option 4,Popular(10€-15€),Cavit,Red wine,7 %,2 years,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,0
+768,28,4,Option 1,Value(3€-10€),Cavit,Sparkling wine,7 %,2 years,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,0
+769,28,4,Option 2,Luxury(50€-100€),Ferrari,Rose wine,18 %,1 year ,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,1
+770,28,4,Option 3,Popular(10€-15€),Mezzacorona,Rose wine,18 %,3 years,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,0
+771,28,4,Option 4,Premium(15€-30€),Cantina Toblino,Rose wine,5.5 %,4 years,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,0
+772,28,5,Option 1,Luxury(50€-100€),Ferrari,White wine,7 %,3 years,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,0
+773,28,5,Option 2,Popular(10€-15€),Mezzacorona,Red wine,18 %,3 years,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,1
+774,28,5,Option 3,Luxury(50€-100€),Cavit,White wine,7 %,4 years,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,0
+775,28,5,Option 4,Premium(15€-30€),Cavit,Sparkling wine,5.5 %,1 year ,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,0
+776,28,6,Option 1,Value(3€-10€),Mezzacorona,Rose wine,12 %,3 years,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,0
+777,28,6,Option 2,Luxury(50€-100€),Ferrari,Sparkling wine,5.5 %,4 years,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,0
+778,28,6,Option 3,Value(3€-10€),Cantina Toblino,Sparkling wine,18 %,4 years,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,1
+779,28,6,Option 4,Luxury(50€-100€),Mezzacorona,White wine,12 %,3 years,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,0
+780,28,7,Option 1,Popular(10€-15€),Mezzacorona,Rose wine,7 %,2 years,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,0
+781,28,7,Option 2,Value(3€-10€),Ferrari,White wine,7 %,3 years,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,0
+782,28,7,Option 3,Luxury(50€-100€),Mezzacorona,Sparkling wine,18 %,5 years,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,1
+783,28,7,Option 4,Popular(10€-15€),Cantina Toblino,Red wine,18 %,3 years,1,Male,Student,Masters,Ethopia,"Facebook,Instagram",Moderate,0
+784,29,1,Option 1,Luxury(50€-100€),Mezzacorona,Sparkling wine,18 %,5 years,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,0
+785,29,1,Option 2,Popular(10€-15€),Ferrari,Sparkling wine,5.5 %,3 years,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,1
+786,29,1,Option 3,Luxury(50€-100€),Cavit,White wine,7 %,1 year ,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,0
+787,29,1,Option 4,Luxury(50€-100€),Mezzacorona,Sparkling wine,7 %,2 years,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,0
+788,29,2,Option 1,Value(3€-10€),Cavit,Rose wine,7 %,5 years,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,0
+789,29,2,Option 2,Premium(15€-30€),Cantina Toblino,Rose wine,5.5 %,3 years,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,0
+790,29,2,Option 3,Popular(10€-15€),Cavit,Rose wine,5.5 %,5 years,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,1
+791,29,2,Option 4,Popular(10€-15€),Cantina Toblino,Rose wine,18 %,4 years,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,0
+792,29,3,Option 1,Popular(10€-15€),Cavit,Sparkling wine,5.5 %,2 years,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,0
+793,29,3,Option 2,Premium(15€-30€),Cantina Toblino,Red wine,18 %,4 years,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,0
+794,29,3,Option 3,Value(3€-10€),Ferrari,Sparkling wine,7 %,2 years,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,0
+795,29,3,Option 4,Value(3€-10€),Mezzacorona,Red wine,5.5 %,2 years,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,1
+796,29,4,Option 1,Luxury(50€-100€),Mezzacorona,Rose wine,12 %,4 years,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,0
+797,29,4,Option 2,Popular(10€-15€),Cantina Toblino,Sparkling wine,5.5 %,4 years,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,0
+798,29,4,Option 3,Popular(10€-15€),Cantina Toblino,Rose wine,7 %,2 years,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,0
+799,29,4,Option 4,Popular(10€-15€),Mezzacorona,White wine,5.5 %,2 years,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,1
+800,29,5,Option 1,Value(3€-10€),Cavit,White wine,12 %,5 years,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,0
+801,29,5,Option 2,Luxury(50€-100€),Cavit,Sparkling wine,5.5 %,5 years,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,0
+802,29,5,Option 3,Premium(15€-30€),Cantina Toblino,Rose wine,18 %,2 years,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,0
+803,29,5,Option 4,Popular(10€-15€),Ferrari,White wine,5.5 %,2 years,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,1
+804,29,6,Option 1,Popular(10€-15€),Cantina Toblino,Red wine,12 %,2 years,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,0
+805,29,6,Option 2,Premium(15€-30€),Ferrari,Rose wine,12 %,4 years,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,0
+806,29,6,Option 3,Premium(15€-30€),Cantina Toblino,White wine,5.5 %,1 year ,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,1
+807,29,6,Option 4,Value(3€-10€),Cavit,White wine,18 %,2 years,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,0
+808,29,7,Option 1,Value(3€-10€),Cavit,Sparkling wine,18 %,1 year ,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,0
+809,29,7,Option 2,Luxury(50€-100€),Cavit,Red wine,7 %,1 year ,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,0
+810,29,7,Option 3,Luxury(50€-100€),Cantina Toblino,White wine,5.5 %,3 years,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,0
+811,29,7,Option 4,Premium(15€-30€),Cavit,Rose wine,5.5 %,4 years,1,Male,Student,Bachelors,Bangladesh,"Facebook,Instagram",Low,1
+812,30,1,Option 1,Popular(10€-15€),Cantina Toblino,White wine,7 %,3 years,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,1
+813,30,1,Option 2,Premium(15€-30€),Cavit,White wine,12 %,3 years,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,0
+814,30,1,Option 3,Popular(10€-15€),Cantina Toblino,Sparkling wine,5.5 %,5 years,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,0
+815,30,1,Option 4,Value(3€-10€),Cantina Toblino,Red wine,18 %,5 years,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,0
+816,30,2,Option 1,Value(3€-10€),Cavit,Rose wine,5.5 %,5 years,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,0
+817,30,2,Option 2,Premium(15€-30€),Ferrari,Red wine,5.5 %,2 years,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,0
+818,30,2,Option 3,Popular(10€-15€),Cavit,Rose wine,12 %,5 years,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,0
+819,30,2,Option 4,Premium(15€-30€),Cantina Toblino,Sparkling wine,5.5 %,5 years,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,1
+820,30,3,Option 1,Popular(10€-15€),Cantina Toblino,Sparkling wine,12 %,3 years,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,0
+821,30,3,Option 2,Value(3€-10€),Ferrari,White wine,7 %,2 years,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,1
+822,30,3,Option 3,Popular(10€-15€),Ferrari,Sparkling wine,7 %,2 years,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,0
+823,30,3,Option 4,Value(3€-10€),Mezzacorona,Rose wine,12 %,5 years,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,0
+824,30,4,Option 1,Luxury(50€-100€),Cavit,Red wine,7 %,2 years,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,0
+825,30,4,Option 2,Luxury(50€-100€),Cavit,White wine,18 %,2 years,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,0
+826,30,4,Option 3,Luxury(50€-100€),Cantina Toblino,Rose wine,5.5 %,5 years,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,0
+827,30,4,Option 4,Value(3€-10€),Ferrari,Rose wine,12 %,5 years,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,1
+828,30,5,Option 1,Premium(15€-30€),Cantina Toblino,Sparkling wine,7 %,2 years,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,0
+829,30,5,Option 2,Premium(15€-30€),Mezzacorona,Sparkling wine,5.5 %,3 years,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,1
+830,30,5,Option 3,Luxury(50€-100€),Mezzacorona,Rose wine,18 %,5 years,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,0
+831,30,5,Option 4,Premium(15€-30€),Cavit,Sparkling wine,5.5 %,2 years,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,0
+832,30,6,Option 1,Luxury(50€-100€),Cavit,Sparkling wine,7 %,4 years,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,0
+833,30,6,Option 2,Popular(10€-15€),Cavit,White wine,7 %,4 years,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,1
+834,30,6,Option 3,Value(3€-10€),Mezzacorona,White wine,18 %,4 years,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,0
+835,30,6,Option 4,Popular(10€-15€),Ferrari,Sparkling wine,18 %,4 years,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,0
+836,30,7,Option 1,Luxury(50€-100€),Cavit,White wine,5.5 %,5 years,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,0
+837,30,7,Option 2,Premium(15€-30€),Mezzacorona,Rose wine,7 %,2 years,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,0
+838,30,7,Option 3,Value(3€-10€),Ferrari,Rose wine,7 %,1 year ,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,1
+839,30,7,Option 4,Premium(15€-30€),Ferrari,Red wine,12 %,4 years,1,Male,Student,Bachelors,Italian,"Facebook,Instagram",Moderate,0
