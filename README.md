@@ -2,21 +2,21 @@
 
 # Choice based Conjoint Analysis on Wine Preference of Italian Consumers
 
-_ **Abstract** _ - **This project aims to conduct a random survey design for collecting responses regarding wine preferences of Italian consumers. Furthermore, it attempts to understand how preference share gets affected as we vary different attributes associated with wine.**
+***Abstract***  - **This project aims to conduct a random survey design for collecting responses regarding wine preferences of Italian consumers. Furthermore, it attempts to understand how preference share gets affected as we vary different attributes associated with wine.**
 
-_ **Keywords** _ - Conjoint Analysis, part worth estimate, mlogit, customer heterogeneity, random design
+***Keywords***  - Conjoint Analysis, part worth estimate, mlogit, customer heterogeneity, random design
 
-1.
 #### **Introduction**
 
 Wine Industry in Italy takes one of the leading places in the local economy. Furthermore, Italy is the world-leading wine-producing country both in terms of volume and exports. There are more than 100 wine brands from more than 20 regions across Italy. In the previous studies dedicated to wine consumer behavior, the main criteria for customers to evaluate and purchase wine are based on price, awards, region, the taste of wine or even personal recommendations. Researchers also found some differences in respondents' preferences according to age, involvement level, and the geographical part they were from. The research method we used, called Conjoint Analysis, is designed on the view that consumers' values are based on the utility offered by products' attributes. Our study involves a series of interrelated stages which can be classified into 4 main steps. The first step in conducting the analysis is to identify suitable attributes and levels as motivators for consumer choice & conducting the survey based on the design chosen. The second is to perform data pre-processing and exploratory analysis on the collected data. Thirdly, we had to implement the Multinomial Choice model with Conditional Logistic Regression. The fourth & the last step is to implement the Multinomial Choice model but taking into account the customer heterogeneity as well. With these, further preference shares can be derived.
 
-1.
+***Note for the reader***: Please refer to the original report shared in PDF [here](https://github.com/KSwaviman/Conjoint-Analysis/blob/main/A%20Study%20on%20The%20Wine%20Preference%20of%20Italian%20Consumers%20Report.pdf) for better understanding. The following text is a converted markdown of the same PDF which may have improper formatting and missing image files. Link to the original study [*here*](https://github.com/KSwaviman/Conjoint-Analysis/blob/main/A%20Study%20on%20The%20Wine%20Preference%20of%20Italian%20Consumers%20Report.pdf).
+
 #### **Problem definition: purpose of study**
 
 This project aims to investigate the choice-making process and preferences for wine among customers in Trento. In particular, the main goal is to determine how customers value different features of the wine and find the optimal levels of product attributes that maximize sales. Moreover, this project helps to answer questions about more popular types of wine among youth, providing information about the segmentation of customers and brands positioning. At the core of the project is conjoint analysis – a survey-based statistical technique, which allows to perform market research and estimate market share for products or services. The chosen method of the project is a choice-based conjoint survey, subsequently analyzed by using generalized linear models. Methods of conjoint analysis yield estimates of attribute trade-offs using a formal model for analysis.
 
-1.
+
 #### **Design of Conjoint Survey**
 
 The basic principles of designing a conjoint survey involve four different steps, such as determination of the type of study, identifying the relevant attributes, specifying the attributes' levels and designing a questionnaire.
@@ -55,7 +55,7 @@ Fig.1 Example of a question in the conjoint survey
 
 Moreover, in addition to the choice-based conjoint questions, social-demographic data of the respondents, such as age, gender, level of education, employment status, ethnicity, usage of social media platforms and level of daily physical activity was collected.
 
-1.
+
 #### **Exploratory Data Analysis**
 
 It is important to analyze basic descriptive statistics of the collected data set to understand its initial features and summarize the main characteristics. Descriptive statistics also help to understand if there are any imbalances as well as missing values in the data. Firstly, we analyzed the descriptive social-demographic statistics of the respondents.
@@ -128,7 +128,7 @@ The graph indicates that respondents, who chose the Ferrari brand in the questio
 
 Fig. 12 Distribution by brand and other 3 attributes
 
-1.
+
 #### **Choice Model with Conditional Logistic Regression**
 
 ##### **5.1 Utility function**
